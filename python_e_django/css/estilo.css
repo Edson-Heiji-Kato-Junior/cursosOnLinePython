@@ -1,0 +1,19 @@
+body {
+	background: black;
+	color: red;
+}
+
+p{
+	color: darkblue;
+	font-weight: bold;
+}
+
+.classe_span{
+	color: cyan;
+	font-size: 42px;
+}
+
+#id_paragrafo{
+	color: green;
+	font-style: italic;
+}

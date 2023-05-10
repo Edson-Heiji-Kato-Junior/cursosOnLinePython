@@ -1,0 +1,1028 @@
+1-Título: The Matrix - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+2-Título: The Matrix Reloaded - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+3-Título: The Matrix Revolutions - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BNzNlZTZjMDctZjYwNi00NzljLWIwN2QtZWZmYmJiYzQ0MTk2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+4-Título: The Matrix Resurrections - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg
+5-Título: Making 'The Matrix' - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BZjJjMTg5MTEtMDkwMy00ZjUyLTg5ODYtMmNmY2ZiNGVlZTdjXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+6-Título: The Matrix Revisited - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BMTkzNjg3NjE4N15BMl5BanBnXkFtZTgwNTc3NTAwNzE@._V1_SX300.jpg
+7-Título: Enter the Matrix - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BNWM3MDU2MWQtYjdlNC00NDBlLTkyNGMtNjdhYjdlNTdiNTFlXkEyXkFqcGdeQXVyNTEwNDY2MjU@._V1_SX300.jpg
+8-Título: A Glitch in the Matrix - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMWRhNGY3NGQtMDAxMS00YjY2LTgzOTUtZjljZmUyYWQwMGI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg
+9-Título: The Matrix: Path of Neo - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BZGFiNGU4MjEtODM2ZC00OTg0LThkNmEtZTBlN2FkMmFjOWYzXkEyXkFqcGdeQXVyNTEwNDY2MjU@._V1_SX300.jpg
+10-Título: Armitage III: Dual Matrix - Ano Lançamento: 2002 - Capa: https://m.media-amazon.com/images/M/MV5BOTUwOTY3Mjg1MF5BMl5BanBnXkFtZTcwODI2MTAyMQ@@._V1_SX300.jpg
+11-Título: CR: Enter the Matrix - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMTExMzY3NTQ1NjleQTJeQWpwZ15BbWU3MDAyMjk2NzM@._V1_SX300.jpg
+12-Título: Sex and the Matrix - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BYjBlMDFiODYtZmE2Ny00Y2JjLWIxYTAtMTRhYWQ1ZmM0OGE3XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg
+13-Título: The Matrix Reloaded Revisited - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BODBlZmFiMTktOTkyMy00OWFkLTg0ZTAtODJkY2VlYWQ0NWM1XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+14-Título: Buhera mátrix - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BMGZiNzdmYWUtZTY0ZS00ZGU4LWE1NDgtNTNkZWM3MzQ0NDY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjIzMDAwOTc@._V1_SX300.jpg
+15-Título: Return to Source: Philosophy & The Matrix - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BODJjOTEyYTAtMGYwMC00ZDc5LTg5ZGItMGJmNzM4MjUzM2Q5XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+16-Título: The Matrix Online - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTYxNTM5MDkwMF5BMl5BanBnXkFtZTcwMTAzMTEzMQ@@._V1_SX300.jpg
+17-Título: The Matrix Recalibrated - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BODE1NWM0NmYtMmM1Ny00OTg3LWE3YWUtOTJhMzVkNWEzOGI0XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+18-Título: Threat Matrix - Ano Lançamento: 2003–2004 - Capa: https://m.media-amazon.com/images/M/MV5BMTdlYjcwMmEtMjUxMi00NDg4LTg0YjUtZjAxZGVhYWVjMTFjXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_SX300.jpg
+19-Título: Sex Files: Sexual Matrix - Ano Lançamento: 2000 - Capa: N/A
+20-Título: Matrix - Ano Lançamento: 1993 - Capa: https://m.media-amazon.com/images/M/MV5BYzUzOTA5ZTMtMTdlZS00MmQ5LWFmNjEtMjE5MTczN2RjNjE3XkEyXkFqcGdeQXVyNTc2ODIyMzY@._V1_SX300.jpg
+21-Título: The Living Matrix - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMjAwNTU2NzExMV5BMl5BanBnXkFtZTgwNzI4Mzg2MTE@._V1_SX300.jpg
+22-Título: V-World Matrix - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BMDI4ZGU1OWYtYTNjMy00YWQ4LTg3M2YtNmUxMDhiZjFhZTYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjc4MjYzOA@@._V1_SX300.jpg
+23-Título: The Matrix: The Movie Special - Ano Lançamento: 1999 - Capa: N/A
+24-Título: Matrix - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNjQyNWZiM2UtOWYyYS00MmVmLWFhZGUtY2ExMDQxNDc5YTE0XkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_SX300.jpg
+25-Título: Making 'Enter the Matrix' - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BMmE1ZGYyNTItN2VjNC00YmU1LWFjMTAtM2ZjYjRkODhmYTIxXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+26-Título: Matrix III - Ano Lançamento: 1972 - Capa: https://m.media-amazon.com/images/M/MV5BNjJmZjE5MmUtOTA0ZC00NGRiLTg3M2MtODRhOGIzOWM1ZmRmXkEyXkFqcGdeQXVyMjkxODI3MTY@._V1_SX300.jpg
+27-Título: Matrix of Evil - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BOWM0NTEyODUtZDAzYi00MGUyLTg5MDItMDk3NjMxY2U0NWU3XkEyXkFqcGdeQXVyNzM5MDUxMTU@._V1_SX300.jpg
+28-Título: The Matrix Revolutions Revisited - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMzk3YzFjYzYtNDVhZC00ZDJiLTlmOGYtMjNlNjRhZGFiZGNiXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+29-Título: Matrix IV - Ano Lançamento: 2010 - Capa: N/A
+30-Título: Matrix I - Ano Lançamento: 1971 - Capa: https://m.media-amazon.com/images/M/MV5BYTQyZTliYWQtNDg0MC00M2YxLWEwZDAtMTA3YjM0MzI3YWIyXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg
+31-Título: The Matrix Reloaded: The Exiles - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BYmFlYzFkNDEtNDVjMy00N2JmLWFiNmUtZDMzNjBlYTlmYzVlXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+32-Título: The Matrix - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMDA4NWU4NTgtMDgxZC00ZjJiLWEyMTYtMTkzOTIwZmJkOTBkXkEyXkFqcGdeQXVyOTc5MzgzNg@@._V1_SX300.jpg
+33-Título: The Matrix Reloaded: Car Chase - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BNDQzM2FhZmQtMzRjOC00ZDU0LWJjY2YtMWU2NTdhZGNiZTYwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+34-Título: Decoded: The Making of 'The Matrix Reloaded' - Ano Lançamento: 2003 - Capa: N/A
+35-Título: The American Matrix: Age of Deception - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BNjcxODE4MzE3MV5BMl5BanBnXkFtZTcwNjMwMzcxMw@@._V1_SX300.jpg
+36-Título: The Matrix Revolutions: Hel - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BOWUxODE3ZTYtYjU5Mi00MWYwLWExODktMDFkMWQzYzdhYTdhXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+37-Título: Behind 'The Matrix' - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BNWUyNzRkNjgtNThhMy00MjlmLTlmNDEtNGQzMDY0YzBjY2NlXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+38-Título: The Matrix Reloaded: Pre-Load - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BODc1NzlmZTQtNWQ1Ni00NmU4LTgyZDAtODEwYzIwODQzMmUyXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+39-Título: The Approval Matrix - Ano Lançamento: 2014– - Capa: https://m.media-amazon.com/images/M/MV5BMTY1ODEyMDgxMV5BMl5BanBnXkFtZTgwMzM2MzAxMzE@._V1_SX300.jpg
+40-Título: The Matrix Reloaded: I'll Handle Them - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMGZjNGQ4MmItM2MwZS00YWE1LThhNDQtN2RhY2QwNTk4YmVmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+41-Título: The Matrix: Reborn - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZjJmMDg1NjctYjgwMy00ZTc2LWFmNGYtNzI2NTk3NmM0MTI2XkEyXkFqcGdeQXVyNzczNzc4NjU@._V1_SX300.jpg
+42-Título: Everything Is a Remix: The Matrix - Ano Lançamento: 2011 - Capa: N/A
+43-Título: Matrix: First Dream - Ano Lançamento: 1979 - Capa: N/A
+44-Título: The Matrix Reloaded: Teahouse Fight - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BN2M0ZWRlNTEtZmE1OC00Njc3LWFkMzktNDJjNmIyMTVlZDNmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+45-Título: The Matrix Revolutions: Super Burly Brawl - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BOGVkNmY4MjQtZmI5Mi00ZDU1LWEzNjUtNDAwZWVjZTU3ZGY5XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+46-Título: Matrix. Wrong Number - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BYjY5ZWVhM2MtZTJjMS00NDhhLWFkMmUtM2ZhY2YwNjYxYzdhXkEyXkFqcGdeQXVyMzQ5OTI0Ng@@._V1_SX300.jpg
+47-Título: The Matrix Defence - Ano Lançamento: 2003 - Capa: N/A
+48-Título: The Matrix Revolutions: Double Agent Smith - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMWJlMDBhZmYtMDIxMi00Nzk5LTgwMGQtYTJjNzBlZjRlMTY2XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+49-Título: The Matrix Revolutions: Crew - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BZTBjZjUzYzItMTE3OC00YzYxLWJmZjMtODgwNGNjOTYyMzYzXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+50-Título: The Matrix Revolutions: New Blue World - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMzM1YjIwNDQtODMyMy00YzQ5LTljZmYtNjI4MDIxNzE4ZWQwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+51-Título: Mind Over Matter: The Physicality of the Matrix Future - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BNzEyNjlmYjQtZWU3ZS00NWUxLWE3YWItM2I4ODU1ZTllZThmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+52-Título: Matrix of Love - Ano Lançamento: 2008 - Capa: N/A
+53-Título: Adventures in Odyssey: Escape from the Forbidden Matrix - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ3MDE1NzYxOV5BMl5BanBnXkFtZTgwODk0Njc0NTE@._V1_SX300.jpg
+54-Título: Bigger Questions... The Psychic Matrix - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMTM5Mzk1NzE1N15BMl5BanBnXkFtZTgwOTMzNzA2MDE@._V1_SX300.jpg
+55-Título: The Divine Matrix - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMjA1MTEzNDU3M15BMl5BanBnXkFtZTgwNzUxODA2MDE@._V1_SX300.jpg
+56-Título: The Matrix Revolutions: CG Revolution - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BYjZhYzBhOTYtYWFiZS00Yzk3LTk3MWMtOTE0MjI1ZGM4M2FiXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+57-Título: Interviews from the Set of 'The Matrix Revolutions' - Ano Lançamento: 2003 - Capa: N/A
+58-Título: Dot Matrix - Ano Lançamento: 2013 - Capa: N/A
+59-Título: The Approval Matrix - Ano Lançamento: 2011– - Capa: N/A
+60-Título: Matrix.Butterfly - Ano Lançamento: 2011 - Capa: N/A
+61-Título: M.A.N.: Matrix Adjusted Normal - Ano Lançamento: 1992 - Capa: N/A
+62-Título: The Matrix Revolutions: Super Big Mini Models - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMWJiYjI5OGUtYTEyNC00MmI5LWJjYzMtYTAwNzFmMmJmODBmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+63-Título: Black Ops: Silo Matrix - Ano Lançamento: 2011 - Capa: N/A
+64-Título: The Matrix: Follow the White Rabbit - Ano Lançamento: 1999 - Capa: N/A
+65-Título: The Matrix Reloaded: Unplugged - Ano Lançamento: 2004 - Capa: N/A
+66-Título: The Matrix Revolutions: Siege - Ano Lançamento: 2004 - Capa: N/A
+67-Título: The Matrix Revolutions: Aftermath - Ano Lançamento: 2004 - Capa: N/A
+68-Título: A Glitch in the Matrix - Ano Lançamento: 2016 - Capa: N/A
+69-Título: The Matrix: Disciples Path (Fan Film) - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZGI1MmZlYjItZTMxNi00N2ZlLWEwMzUtMWIxYzQ2Y2U5YjJlXkEyXkFqcGdeQXVyNTQ0NTIwMzk@._V1_SX300.jpg
+70-Título: Reversible Matrix - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BZjM3OWZlOWUtODY5Ny00MzExLTgzMTktMGQ5M2ZjOWI3ZmQzXkEyXkFqcGdeQXVyMjY2NTM4NTI@._V1_SX300.jpg
+71-Título: Future Gamer: Matrix Online - Ano Lançamento: 2004 - Capa: N/A
+72-Título: The Matrix (Macierz) - Ano Lançamento: 2014 - Capa: N/A
+73-Título: Dinosaur Matrix - Ano Lançamento: 1985 - Capa: N/A
+74-Título: Tanjeria Acting Scene: Matrix Reloaded - Ano Lançamento: 2013 - Capa: N/A
+75-Título: Escape the Matrix - Ano Lançamento: 2012 - Capa: N/A
+76-Título: Island Matrix - Ano Lançamento: 2013 - Capa: N/A
+77-Título: The Matrix: Retribution Part 1 - Ano Lançamento: 2014 - Capa: N/A
+78-Título: Great White Matrix - Ano Lançamento: 2014 - Capa: N/A
+79-Título: Escuela Matrix - Ano Lançamento: 2014 - Capa: N/A
+80-Título: The Matrix Unfolds - Ano Lançamento: 2003 - Capa: N/A
+81-Título: The Matrix Reloaded: Get Me an Exit - Ano Lançamento: 2003 - Capa: N/A
+82-Título: The 2004 Annual Matrix Awards - Ano Lançamento: 2004 - Capa: N/A
+83-Título: Dance 5: The Matrix - Ano Lançamento: 2006 - Capa: N/A
+84-Título: The Happiness Matrix - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ0MzQxNzE1MV5BMl5BanBnXkFtZTgwNTU0NTA4NjE@._V1_SX300.jpg
+85-Título: New York 360º Presents: The 2007 Matrix Awards - Ano Lançamento: 2007 - Capa: N/A
+86-Título: The Matrix Revolutions: Behind the Scenes - Ano Lançamento: 2003 - Capa: N/A
+87-Título: From the Matrix to Revolutions: Behind the Scenes - Ano Lançamento: 2003 - Capa: N/A
+88-Título: Matrix Recall - Ano Lançamento: 2016 - Capa: N/A
+89-Título: The Matrix - Ano Lançamento: 2004 - Capa: N/A
+90-Título: Chris Brown: Matrix - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BYTJhYzI2MGItMWFiOS00MzMxLWFhZGYtMjQ5YTRmMzM5ZjNjXkEyXkFqcGdeQXVyMTE0MzgwNQ@@._V1_SX300.jpg
+91-Título: The Cosmic Matrix: Science, SETI & UFOs - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BOTg3Y2RjMWEtNWVmNi00OGQwLWJkZjAtNTI1MzI1MjQxNzhmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+92-Título: Da Matrix Downloaded - Ano Lançamento: 2006 - Capa: N/A
+93-Título: A Stranger's Craft: Matrix - Ano Lançamento: 2012 - Capa: N/A
+94-Título: Matrix Zone - Ano Lançamento: 2013 - Capa: N/A
+95-Título: Aufstand in der Matrix - Ano Lançamento: 2019 - Capa: N/A
+96-Título: Heterotopias/Matrix 238 - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BOWRlYTA0MGUtYjg3NC00YTg4LTk2NmQtNjIwOWYxYWUyOWEzXkEyXkFqcGdeQXVyNjgwMTIxNTk@._V1_SX300.jpg
+97-Título: The Matrix Redeemed - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZjg0OWYwMTktZTk2My00MjRhLTlkYjctOTBhOWU2MzU2YTIxXkEyXkFqcGdeQXVyMTc2MzI1MzI@._V1_SX300.jpg
+98-Título: The Gang Matrix - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BMjk0OTcyZDAtYzExYi00NDgzLTg1NmEtNmQ2ZjFiNTAyOWQ4XkEyXkFqcGdeQXVyMzA4ODMxMDI@._V1_SX300.jpg
+99-Título: The Pleasure Matrix - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNjFiM2NhZTAtYmI0Mi00ZjgwLTkyYTQtYTM3ZmYzNjZhNDcwXkEyXkFqcGdeQXVyNDg1Mjk5MTE@._V1_SX300.jpg
+100-Título: Matrix and Milieu - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMTYxMWU1ZTctODIzNy00ODRhLWJiM2YtZTlhMjY1NWY4YTg2XkEyXkFqcGdeQXVyMjkyNjA3ODM@._V1_SX300.jpg
+101-Título: Is the Matrix Real? A Discussion About Reality - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMjIwOTkwODk0MF5BMl5BanBnXkFtZTgwNzg4ODM1MDI@._V1_SX300.jpg
+102-Título: Rapid Matrix - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BOGY5MmMyY2QtNmJjOS00YjIyLTg4OWQtODc0YjIyMzdmYjU0XkEyXkFqcGdeQXVyMzI2NDY5NzM@._V1_SX300.jpg
+103-Título: Escape From Zion: A Matrix Parody - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZjUxN2VjYjMtNDcwMi00NzQ0LWI1ZjYtYzkzYmJkOWM4N2UwXkEyXkFqcGdeQXVyOTA3ODg4MQ@@._V1_SX300.jpg
+104-Título: The Matrix Revisited: What Is to Come? - Ano Lançamento: 2001 - Capa: N/A
+105-Título: The Matrix Revisited: What Is Animatrix? - Ano Lançamento: 2001 - Capa: N/A
+106-Título: The Matrix Revisited: Whatisthematrix.com - Ano Lançamento: 2001 - Capa: N/A
+107-Título: The Matrix Revisited: The True Followers - Ano Lançamento: 2001 - Capa: N/A
+108-Título: The Matrix of Control - Ano Lançamento: 2014 - Capa: N/A
+109-Título: Dot Matrix - Ano Lançamento: 2017 - Capa: N/A
+110-Título: Paranormal Matrix - Ano Lançamento: 2016– - Capa: https://m.media-amazon.com/images/M/MV5BZWQ4NmRhNzMtNjZmMC00Y2U5LThmNGItNmJiNmNhODc1YzM1XkEyXkFqcGdeQXVyODEyNzQ5Mjc@._V1_SX300.jpg
+111-Título: Megatron/Matrix - Ano Lançamento: 1995 - Capa: https://m.media-amazon.com/images/M/MV5BMDEyYjhmYTYtOWExZS00NDEzLTg5YTYtODMyN2U5OGFlYzgwXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg
+112-Título: Die Luther Matrix - Ano Lançamento: 2017 - Capa: N/A
+113-Título: Marriage Matrix - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BN2Y0NGVkZGYtYjBlYi00YWU2LWIwZjItMzdiYWVhZGY3YTVjXkEyXkFqcGdeQXVyODYwMTUzMTA@._V1_SX300.jpg
+114-Título: The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)--A Timesaving, Perception-Taxing Version - Ano Lançamento: 2018 - Capa: N/A
+115-Título: The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher) - Ano Lançamento: 2018 - Capa: N/A
+116-Título: The Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher) - Ano Lançamento: 2018 - Capa: N/A
+117-Título: A glitch in the Matrix - Ano Lançamento: 2021– - Capa: https://m.media-amazon.com/images/M/MV5BM2Y1NDgwMTYtOTUzZi00M2I1LTkwMzAtOWVlNGY4NDliMzI3XkEyXkFqcGdeQXVyMTI2NDg0Mzc2._V1_SX300.jpg
+118-Título: The Matrix: Red Pill Rescue - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BMjUwZDJkMmEtMWMyNC00MWU3LThmMmYtNGMwZGFlNWU1YWM0XkEyXkFqcGdeQXVyMTEyNTc3NDc@._V1_SX300.jpg
+119-Título: The Matrix 4 Fan Film - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNmYwMDc2MmEtYWRjMC00ZmUyLWI4YTEtZjk1MTlhNGM4N2IxXkEyXkFqcGdeQXVyODE4OTI4NzI@._V1_SX300.jpg
+120-Título: What is the Matrix - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BYjM3NjUwNzQtNjY2Yi00MjdiLWIwNzktYmVmYzg1OTBkNzI1XkEyXkFqcGdeQXVyMzc4ODAxMzQ@._V1_SX300.jpg
+121-Título: A Glitch in the Matrix - Ano Lançamento: 2021– - Capa: N/A
+122-Título: The Matrix, the Office Never-Before-Seen Cold Open - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BZWY5ZTIzNzEtMTZhZS00ZWJlLWEzZDQtOGZlMjRiYWIyM2VhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg
+123-Título: Orbit Pluto the Matrix - Marqueza - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYjU5MmQ4NDgtY2Y3My00OTNlLTlhMjAtZDMzNWI0YjI0MTIxXkEyXkFqcGdeQXVyODc2NzYxMTY@._V1_SX300.jpg
+124-Título: Fortnite Matrix - Ano Lançamento: 2018 - Capa: N/A
+125-Título: Rifftrax: The Matrix - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BN2ZmMTEwMTItZjBkMi00MWI5LTk5ZGItOTE5MmM3MDI5NTRiXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_SX300.jpg
+126-Título: The Matrix Resurrections (2021) - The Keanu Resurrections - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMDgzZTNhOWUtNGRmZi00Mjg3LTlmMmMtMjkyZjJmMmVmNGIzXkEyXkFqcGdeQXVyNzYzMTgwMw@@._V1_SX300.jpg
+127-Título: The Matrix Resurrections (2021) - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BYmE0YzdlMTktM2Q5YS00NGViLTg0MzQtYmZkNjE3MTFiYzU0XkEyXkFqcGdeQXVyNTMxMTQ1NTk@._V1_SX300.jpg
+128-Título: The Matrix (1999) - Ano Lançamento: 1999 - Capa: N/A
+129-Título: Matrix Fitness - Davante Adams - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BZGRjYjA2MmMtOTdmNC00ODQwLWEyYzItMDVmNThmYmI4MjVjXkEyXkFqcGdeQXVyMTY2NjMyMDg@._V1_SX300.jpg
+130-Título: The Matrix Resurrections (2021) - Ano Lançamento: 2021 - Capa: N/A
+131-Título: The Matrix (1999) - Ano Lançamento: 1999 - Capa: N/A
+132-Título: Me and the Matrix - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMDljMmFjOWQtMTAzNi00MTQ1LTliMTQtOTUwMTQwY2JlYmQxXkEyXkFqcGdeQXVyMTIyNjQ1OTMy._V1_SX300.jpg
+133-Título: The Matrix Resurrections: No One Can Be Told What the Matrix Is - Ano Lançamento: 2021 - Capa: N/A
+134-Título: No Frillz Podcast with Yipes & Matrix - Ano Lançamento: 2019– - Capa: https://m.media-amazon.com/images/M/MV5BNzEzYTIwNDctMjI3Ni00MmRhLWFlOTktZDFmYzRkYTg5YzhiXkEyXkFqcGdeQXVyNzUwMDk5MDU@._V1_SX300.jpg
+135-Título: Matrix Isolation - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYzM5OTJmODgtNGE5ZC00MTc2LWI5YzgtMDk3MmI3NjgwMjE0XkEyXkFqcGdeQXVyNzEyMzYxNDU@._V1_SX300.jpg
+1-Título: The Matrix - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+2-Título: The Matrix Reloaded - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+3-Título: The Matrix Revolutions - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BNzNlZTZjMDctZjYwNi00NzljLWIwN2QtZWZmYmJiYzQ0MTk2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+4-Título: The Matrix Resurrections - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg
+5-Título: Making 'The Matrix' - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BZjJjMTg5MTEtMDkwMy00ZjUyLTg5ODYtMmNmY2ZiNGVlZTdjXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+6-Título: The Matrix Revisited - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BMTkzNjg3NjE4N15BMl5BanBnXkFtZTgwNTc3NTAwNzE@._V1_SX300.jpg
+7-Título: Enter the Matrix - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BNWM3MDU2MWQtYjdlNC00NDBlLTkyNGMtNjdhYjdlNTdiNTFlXkEyXkFqcGdeQXVyNTEwNDY2MjU@._V1_SX300.jpg
+8-Título: A Glitch in the Matrix - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMWRhNGY3NGQtMDAxMS00YjY2LTgzOTUtZjljZmUyYWQwMGI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg
+9-Título: The Matrix: Path of Neo - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BZGFiNGU4MjEtODM2ZC00OTg0LThkNmEtZTBlN2FkMmFjOWYzXkEyXkFqcGdeQXVyNTEwNDY2MjU@._V1_SX300.jpg
+10-Título: Armitage III: Dual Matrix - Ano Lançamento: 2002 - Capa: https://m.media-amazon.com/images/M/MV5BOTUwOTY3Mjg1MF5BMl5BanBnXkFtZTcwODI2MTAyMQ@@._V1_SX300.jpg
+11-Título: CR: Enter the Matrix - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMTExMzY3NTQ1NjleQTJeQWpwZ15BbWU3MDAyMjk2NzM@._V1_SX300.jpg
+12-Título: Sex and the Matrix - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BYjBlMDFiODYtZmE2Ny00Y2JjLWIxYTAtMTRhYWQ1ZmM0OGE3XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg
+13-Título: The Matrix Reloaded Revisited - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BODBlZmFiMTktOTkyMy00OWFkLTg0ZTAtODJkY2VlYWQ0NWM1XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+14-Título: Buhera mátrix - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BMGZiNzdmYWUtZTY0ZS00ZGU4LWE1NDgtNTNkZWM3MzQ0NDY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjIzMDAwOTc@._V1_SX300.jpg
+15-Título: Return to Source: Philosophy & The Matrix - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BODJjOTEyYTAtMGYwMC00ZDc5LTg5ZGItMGJmNzM4MjUzM2Q5XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+16-Título: The Matrix Online - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTYxNTM5MDkwMF5BMl5BanBnXkFtZTcwMTAzMTEzMQ@@._V1_SX300.jpg
+17-Título: The Matrix Recalibrated - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BODE1NWM0NmYtMmM1Ny00OTg3LWE3YWUtOTJhMzVkNWEzOGI0XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+18-Título: Threat Matrix - Ano Lançamento: 2003–2004 - Capa: https://m.media-amazon.com/images/M/MV5BMTdlYjcwMmEtMjUxMi00NDg4LTg0YjUtZjAxZGVhYWVjMTFjXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_SX300.jpg
+19-Título: Sex Files: Sexual Matrix - Ano Lançamento: 2000 - Capa: N/A
+20-Título: Matrix - Ano Lançamento: 1993 - Capa: https://m.media-amazon.com/images/M/MV5BYzUzOTA5ZTMtMTdlZS00MmQ5LWFmNjEtMjE5MTczN2RjNjE3XkEyXkFqcGdeQXVyNTc2ODIyMzY@._V1_SX300.jpg
+21-Título: The Living Matrix - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMjAwNTU2NzExMV5BMl5BanBnXkFtZTgwNzI4Mzg2MTE@._V1_SX300.jpg
+22-Título: V-World Matrix - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BMDI4ZGU1OWYtYTNjMy00YWQ4LTg3M2YtNmUxMDhiZjFhZTYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjc4MjYzOA@@._V1_SX300.jpg
+23-Título: The Matrix: The Movie Special - Ano Lançamento: 1999 - Capa: N/A
+24-Título: Matrix - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNjQyNWZiM2UtOWYyYS00MmVmLWFhZGUtY2ExMDQxNDc5YTE0XkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_SX300.jpg
+25-Título: Making 'Enter the Matrix' - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BMmE1ZGYyNTItN2VjNC00YmU1LWFjMTAtM2ZjYjRkODhmYTIxXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+26-Título: Matrix III - Ano Lançamento: 1972 - Capa: https://m.media-amazon.com/images/M/MV5BNjJmZjE5MmUtOTA0ZC00NGRiLTg3M2MtODRhOGIzOWM1ZmRmXkEyXkFqcGdeQXVyMjkxODI3MTY@._V1_SX300.jpg
+27-Título: Matrix of Evil - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BOWM0NTEyODUtZDAzYi00MGUyLTg5MDItMDk3NjMxY2U0NWU3XkEyXkFqcGdeQXVyNzM5MDUxMTU@._V1_SX300.jpg
+28-Título: The Matrix Revolutions Revisited - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMzk3YzFjYzYtNDVhZC00ZDJiLTlmOGYtMjNlNjRhZGFiZGNiXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+29-Título: Matrix IV - Ano Lançamento: 2010 - Capa: N/A
+30-Título: Matrix I - Ano Lançamento: 1971 - Capa: https://m.media-amazon.com/images/M/MV5BYTQyZTliYWQtNDg0MC00M2YxLWEwZDAtMTA3YjM0MzI3YWIyXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg
+31-Título: The Matrix Reloaded: The Exiles - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BYmFlYzFkNDEtNDVjMy00N2JmLWFiNmUtZDMzNjBlYTlmYzVlXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+32-Título: The Matrix - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMDA4NWU4NTgtMDgxZC00ZjJiLWEyMTYtMTkzOTIwZmJkOTBkXkEyXkFqcGdeQXVyOTc5MzgzNg@@._V1_SX300.jpg
+33-Título: The Matrix Reloaded: Car Chase - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BNDQzM2FhZmQtMzRjOC00ZDU0LWJjY2YtMWU2NTdhZGNiZTYwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+34-Título: Decoded: The Making of 'The Matrix Reloaded' - Ano Lançamento: 2003 - Capa: N/A
+35-Título: The American Matrix: Age of Deception - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BNjcxODE4MzE3MV5BMl5BanBnXkFtZTcwNjMwMzcxMw@@._V1_SX300.jpg
+36-Título: The Matrix Revolutions: Hel - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BOWUxODE3ZTYtYjU5Mi00MWYwLWExODktMDFkMWQzYzdhYTdhXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+37-Título: Behind 'The Matrix' - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BNWUyNzRkNjgtNThhMy00MjlmLTlmNDEtNGQzMDY0YzBjY2NlXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+38-Título: The Matrix Reloaded: Pre-Load - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BODc1NzlmZTQtNWQ1Ni00NmU4LTgyZDAtODEwYzIwODQzMmUyXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+39-Título: The Approval Matrix - Ano Lançamento: 2014– - Capa: https://m.media-amazon.com/images/M/MV5BMTY1ODEyMDgxMV5BMl5BanBnXkFtZTgwMzM2MzAxMzE@._V1_SX300.jpg
+40-Título: The Matrix Reloaded: I'll Handle Them - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMGZjNGQ4MmItM2MwZS00YWE1LThhNDQtN2RhY2QwNTk4YmVmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+41-Título: The Matrix: Reborn - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZjJmMDg1NjctYjgwMy00ZTc2LWFmNGYtNzI2NTk3NmM0MTI2XkEyXkFqcGdeQXVyNzczNzc4NjU@._V1_SX300.jpg
+42-Título: Everything Is a Remix: The Matrix - Ano Lançamento: 2011 - Capa: N/A
+43-Título: Matrix: First Dream - Ano Lançamento: 1979 - Capa: N/A
+44-Título: The Matrix Reloaded: Teahouse Fight - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BN2M0ZWRlNTEtZmE1OC00Njc3LWFkMzktNDJjNmIyMTVlZDNmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+45-Título: The Matrix Revolutions: Super Burly Brawl - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BOGVkNmY4MjQtZmI5Mi00ZDU1LWEzNjUtNDAwZWVjZTU3ZGY5XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+46-Título: Matrix. Wrong Number - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BYjY5ZWVhM2MtZTJjMS00NDhhLWFkMmUtM2ZhY2YwNjYxYzdhXkEyXkFqcGdeQXVyMzQ5OTI0Ng@@._V1_SX300.jpg
+47-Título: The Matrix Defence - Ano Lançamento: 2003 - Capa: N/A
+48-Título: The Matrix Revolutions: Double Agent Smith - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMWJlMDBhZmYtMDIxMi00Nzk5LTgwMGQtYTJjNzBlZjRlMTY2XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+49-Título: The Matrix Revolutions: Crew - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BZTBjZjUzYzItMTE3OC00YzYxLWJmZjMtODgwNGNjOTYyMzYzXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+50-Título: The Matrix Revolutions: New Blue World - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMzM1YjIwNDQtODMyMy00YzQ5LTljZmYtNjI4MDIxNzE4ZWQwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+51-Título: Mind Over Matter: The Physicality of the Matrix Future - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BNzEyNjlmYjQtZWU3ZS00NWUxLWE3YWItM2I4ODU1ZTllZThmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+52-Título: Matrix of Love - Ano Lançamento: 2008 - Capa: N/A
+53-Título: Adventures in Odyssey: Escape from the Forbidden Matrix - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ3MDE1NzYxOV5BMl5BanBnXkFtZTgwODk0Njc0NTE@._V1_SX300.jpg
+54-Título: Bigger Questions... The Psychic Matrix - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMTM5Mzk1NzE1N15BMl5BanBnXkFtZTgwOTMzNzA2MDE@._V1_SX300.jpg
+55-Título: The Divine Matrix - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMjA1MTEzNDU3M15BMl5BanBnXkFtZTgwNzUxODA2MDE@._V1_SX300.jpg
+56-Título: The Matrix Revolutions: CG Revolution - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BYjZhYzBhOTYtYWFiZS00Yzk3LTk3MWMtOTE0MjI1ZGM4M2FiXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+57-Título: Interviews from the Set of 'The Matrix Revolutions' - Ano Lançamento: 2003 - Capa: N/A
+58-Título: Dot Matrix - Ano Lançamento: 2013 - Capa: N/A
+59-Título: The Approval Matrix - Ano Lançamento: 2011– - Capa: N/A
+60-Título: Matrix.Butterfly - Ano Lançamento: 2011 - Capa: N/A
+61-Título: M.A.N.: Matrix Adjusted Normal - Ano Lançamento: 1992 - Capa: N/A
+62-Título: The Matrix Revolutions: Super Big Mini Models - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BMWJiYjI5OGUtYTEyNC00MmI5LWJjYzMtYTAwNzFmMmJmODBmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+63-Título: Black Ops: Silo Matrix - Ano Lançamento: 2011 - Capa: N/A
+64-Título: The Matrix: Follow the White Rabbit - Ano Lançamento: 1999 - Capa: N/A
+65-Título: The Matrix Reloaded: Unplugged - Ano Lançamento: 2004 - Capa: N/A
+66-Título: The Matrix Revolutions: Siege - Ano Lançamento: 2004 - Capa: N/A
+67-Título: The Matrix Revolutions: Aftermath - Ano Lançamento: 2004 - Capa: N/A
+68-Título: A Glitch in the Matrix - Ano Lançamento: 2016 - Capa: N/A
+69-Título: The Matrix: Disciples Path (Fan Film) - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZGI1MmZlYjItZTMxNi00N2ZlLWEwMzUtMWIxYzQ2Y2U5YjJlXkEyXkFqcGdeQXVyNTQ0NTIwMzk@._V1_SX300.jpg
+70-Título: Reversible Matrix - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BZjM3OWZlOWUtODY5Ny00MzExLTgzMTktMGQ5M2ZjOWI3ZmQzXkEyXkFqcGdeQXVyMjY2NTM4NTI@._V1_SX300.jpg
+71-Título: Future Gamer: Matrix Online - Ano Lançamento: 2004 - Capa: N/A
+72-Título: The Matrix (Macierz) - Ano Lançamento: 2014 - Capa: N/A
+73-Título: Dinosaur Matrix - Ano Lançamento: 1985 - Capa: N/A
+74-Título: Tanjeria Acting Scene: Matrix Reloaded - Ano Lançamento: 2013 - Capa: N/A
+75-Título: Escape the Matrix - Ano Lançamento: 2012 - Capa: N/A
+76-Título: Island Matrix - Ano Lançamento: 2013 - Capa: N/A
+77-Título: The Matrix: Retribution Part 1 - Ano Lançamento: 2014 - Capa: N/A
+78-Título: Great White Matrix - Ano Lançamento: 2014 - Capa: N/A
+79-Título: Escuela Matrix - Ano Lançamento: 2014 - Capa: N/A
+80-Título: The Matrix Unfolds - Ano Lançamento: 2003 - Capa: N/A
+81-Título: The Matrix Reloaded: Get Me an Exit - Ano Lançamento: 2003 - Capa: N/A
+82-Título: The 2004 Annual Matrix Awards - Ano Lançamento: 2004 - Capa: N/A
+83-Título: Dance 5: The Matrix - Ano Lançamento: 2006 - Capa: N/A
+84-Título: The Happiness Matrix - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ0MzQxNzE1MV5BMl5BanBnXkFtZTgwNTU0NTA4NjE@._V1_SX300.jpg
+85-Título: New York 360º Presents: The 2007 Matrix Awards - Ano Lançamento: 2007 - Capa: N/A
+86-Título: The Matrix Revolutions: Behind the Scenes - Ano Lançamento: 2003 - Capa: N/A
+87-Título: From the Matrix to Revolutions: Behind the Scenes - Ano Lançamento: 2003 - Capa: N/A
+88-Título: Matrix Recall - Ano Lançamento: 2016 - Capa: N/A
+89-Título: The Matrix - Ano Lançamento: 2004 - Capa: N/A
+90-Título: Chris Brown: Matrix - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BYTJhYzI2MGItMWFiOS00MzMxLWFhZGYtMjQ5YTRmMzM5ZjNjXkEyXkFqcGdeQXVyMTE0MzgwNQ@@._V1_SX300.jpg
+91-Título: The Cosmic Matrix: Science, SETI & UFOs - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BOTg3Y2RjMWEtNWVmNi00OGQwLWJkZjAtNTI1MzI1MjQxNzhmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+92-Título: Da Matrix Downloaded - Ano Lançamento: 2006 - Capa: N/A
+93-Título: A Stranger's Craft: Matrix - Ano Lançamento: 2012 - Capa: N/A
+94-Título: Matrix Zone - Ano Lançamento: 2013 - Capa: N/A
+95-Título: Aufstand in der Matrix - Ano Lançamento: 2019 - Capa: N/A
+96-Título: Heterotopias/Matrix 238 - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BOWRlYTA0MGUtYjg3NC00YTg4LTk2NmQtNjIwOWYxYWUyOWEzXkEyXkFqcGdeQXVyNjgwMTIxNTk@._V1_SX300.jpg
+97-Título: The Matrix Redeemed - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZjg0OWYwMTktZTk2My00MjRhLTlkYjctOTBhOWU2MzU2YTIxXkEyXkFqcGdeQXVyMTc2MzI1MzI@._V1_SX300.jpg
+98-Título: The Gang Matrix - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BMjk0OTcyZDAtYzExYi00NDgzLTg1NmEtNmQ2ZjFiNTAyOWQ4XkEyXkFqcGdeQXVyMzA4ODMxMDI@._V1_SX300.jpg
+99-Título: The Pleasure Matrix - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNjFiM2NhZTAtYmI0Mi00ZjgwLTkyYTQtYTM3ZmYzNjZhNDcwXkEyXkFqcGdeQXVyNDg1Mjk5MTE@._V1_SX300.jpg
+100-Título: Matrix and Milieu - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMTYxMWU1ZTctODIzNy00ODRhLWJiM2YtZTlhMjY1NWY4YTg2XkEyXkFqcGdeQXVyMjkyNjA3ODM@._V1_SX300.jpg
+101-Título: Is the Matrix Real? A Discussion About Reality - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMjIwOTkwODk0MF5BMl5BanBnXkFtZTgwNzg4ODM1MDI@._V1_SX300.jpg
+102-Título: Rapid Matrix - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BOGY5MmMyY2QtNmJjOS00YjIyLTg4OWQtODc0YjIyMzdmYjU0XkEyXkFqcGdeQXVyMzI2NDY5NzM@._V1_SX300.jpg
+103-Título: Escape From Zion: A Matrix Parody - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZjUxN2VjYjMtNDcwMi00NzQ0LWI1ZjYtYzkzYmJkOWM4N2UwXkEyXkFqcGdeQXVyOTA3ODg4MQ@@._V1_SX300.jpg
+104-Título: The Matrix Revisited: What Is to Come? - Ano Lançamento: 2001 - Capa: N/A
+105-Título: The Matrix Revisited: What Is Animatrix? - Ano Lançamento: 2001 - Capa: N/A
+106-Título: The Matrix Revisited: Whatisthematrix.com - Ano Lançamento: 2001 - Capa: N/A
+107-Título: The Matrix Revisited: The True Followers - Ano Lançamento: 2001 - Capa: N/A
+108-Título: The Matrix of Control - Ano Lançamento: 2014 - Capa: N/A
+109-Título: Dot Matrix - Ano Lançamento: 2017 - Capa: N/A
+110-Título: Paranormal Matrix - Ano Lançamento: 2016– - Capa: https://m.media-amazon.com/images/M/MV5BZWQ4NmRhNzMtNjZmMC00Y2U5LThmNGItNmJiNmNhODc1YzM1XkEyXkFqcGdeQXVyODEyNzQ5Mjc@._V1_SX300.jpg
+111-Título: Megatron/Matrix - Ano Lançamento: 1995 - Capa: https://m.media-amazon.com/images/M/MV5BMDEyYjhmYTYtOWExZS00NDEzLTg5YTYtODMyN2U5OGFlYzgwXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg
+112-Título: Die Luther Matrix - Ano Lançamento: 2017 - Capa: N/A
+113-Título: Marriage Matrix - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BN2Y0NGVkZGYtYjBlYi00YWU2LWIwZjItMzdiYWVhZGY3YTVjXkEyXkFqcGdeQXVyODYwMTUzMTA@._V1_SX300.jpg
+114-Título: The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)--A Timesaving, Perception-Taxing Version - Ano Lançamento: 2018 - Capa: N/A
+115-Título: The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher) - Ano Lançamento: 2018 - Capa: N/A
+116-Título: The Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher) - Ano Lançamento: 2018 - Capa: N/A
+117-Título: A glitch in the Matrix - Ano Lançamento: 2021– - Capa: https://m.media-amazon.com/images/M/MV5BM2Y1NDgwMTYtOTUzZi00M2I1LTkwMzAtOWVlNGY4NDliMzI3XkEyXkFqcGdeQXVyMTI2NDg0Mzc2._V1_SX300.jpg
+118-Título: The Matrix: Red Pill Rescue - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BMjUwZDJkMmEtMWMyNC00MWU3LThmMmYtNGMwZGFlNWU1YWM0XkEyXkFqcGdeQXVyMTEyNTc3NDc@._V1_SX300.jpg
+119-Título: The Matrix 4 Fan Film - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNmYwMDc2MmEtYWRjMC00ZmUyLWI4YTEtZjk1MTlhNGM4N2IxXkEyXkFqcGdeQXVyODE4OTI4NzI@._V1_SX300.jpg
+120-Título: What is the Matrix - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BYjM3NjUwNzQtNjY2Yi00MjdiLWIwNzktYmVmYzg1OTBkNzI1XkEyXkFqcGdeQXVyMzc4ODAxMzQ@._V1_SX300.jpg
+121-Título: A Glitch in the Matrix - Ano Lançamento: 2021– - Capa: N/A
+122-Título: The Matrix, the Office Never-Before-Seen Cold Open - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BZWY5ZTIzNzEtMTZhZS00ZWJlLWEzZDQtOGZlMjRiYWIyM2VhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg
+123-Título: Orbit Pluto the Matrix - Marqueza - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYjU5MmQ4NDgtY2Y3My00OTNlLTlhMjAtZDMzNWI0YjI0MTIxXkEyXkFqcGdeQXVyODc2NzYxMTY@._V1_SX300.jpg
+124-Título: Fortnite Matrix - Ano Lançamento: 2018 - Capa: N/A
+125-Título: Rifftrax: The Matrix - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BN2ZmMTEwMTItZjBkMi00MWI5LTk5ZGItOTE5MmM3MDI5NTRiXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_SX300.jpg
+126-Título: The Matrix Resurrections (2021) - The Keanu Resurrections - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMDgzZTNhOWUtNGRmZi00Mjg3LTlmMmMtMjkyZjJmMmVmNGIzXkEyXkFqcGdeQXVyNzYzMTgwMw@@._V1_SX300.jpg
+127-Título: The Matrix Resurrections (2021) - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BYmE0YzdlMTktM2Q5YS00NGViLTg0MzQtYmZkNjE3MTFiYzU0XkEyXkFqcGdeQXVyNTMxMTQ1NTk@._V1_SX300.jpg
+128-Título: The Matrix (1999) - Ano Lançamento: 1999 - Capa: N/A
+129-Título: Matrix Fitness - Davante Adams - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BZGRjYjA2MmMtOTdmNC00ODQwLWEyYzItMDVmNThmYmI4MjVjXkEyXkFqcGdeQXVyMTY2NjMyMDg@._V1_SX300.jpg
+130-Título: The Matrix Resurrections (2021) - Ano Lançamento: 2021 - Capa: N/A
+131-Título: The Matrix (1999) - Ano Lançamento: 1999 - Capa: N/A
+132-Título: Me and the Matrix - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMDljMmFjOWQtMTAzNi00MTQ1LTliMTQtOTUwMTQwY2JlYmQxXkEyXkFqcGdeQXVyMTIyNjQ1OTMy._V1_SX300.jpg
+133-Título: The Matrix Resurrections: No One Can Be Told What the Matrix Is - Ano Lançamento: 2021 - Capa: N/A
+134-Título: No Frillz Podcast with Yipes & Matrix - Ano Lançamento: 2019– - Capa: https://m.media-amazon.com/images/M/MV5BNzEzYTIwNDctMjI3Ni00MmRhLWFlOTktZDFmYzRkYTg5YzhiXkEyXkFqcGdeQXVyNzUwMDk5MDU@._V1_SX300.jpg
+135-Título: Matrix Isolation - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYzM5OTJmODgtNGE5ZC00MTc2LWI5YzgtMDk3MmI3NjgwMjE0XkEyXkFqcGdeQXVyNzEyMzYxNDU@._V1_SX300.jpg
+1-Título: Batman Begins - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+2-Título: Batman v Superman: Dawn of Justice - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+3-Título: The Batman - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg
+4-Título: Batman - Ano Lançamento: 1989 - Capa: https://m.media-amazon.com/images/M/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg
+5-Título: Batman Returns - Ano Lançamento: 1992 - Capa: https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg
+6-Título: Batman & Robin - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg
+7-Título: Batman Forever - Ano Lançamento: 1995 - Capa: https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+8-Título: The Lego Batman Movie - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg
+9-Título: Batman: The Animated Series - Ano Lançamento: 1992–1995 - Capa: https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg
+10-Título: Batman v Superman: Dawn of Justice (Ultimate Edition) - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BN2I4OTllM2MtMWVhNC00MjkzLWJlMDUtN2FhMGQ2ZGVjMjllXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+11-Título: Batman: The Killing Joke - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMTdjZTliODYtNWExMi00NjQ1LWIzN2MtN2Q5NTg5NTk3NzliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+12-Título: Batman: Under the Red Hood - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+13-Título: Batman: The Dark Knight Returns, Part 1 - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg
+14-Título: Batman: Mask of the Phantasm - Ano Lançamento: 1993 - Capa: https://m.media-amazon.com/images/M/MV5BYTRiMWM3MGItNjAxZC00M2E3LThhODgtM2QwOGNmZGU4OWZhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg
+15-Título: Batman: The Dark Knight Returns, Part 2 - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BYTEzMmE0ZDYtYWNmYi00ZWM4LWJjOTUtYTE0ZmQyYWM3ZjA0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg
+16-Título: Batman - Ano Lançamento: 1966 - Capa: https://m.media-amazon.com/images/M/MV5BMmM1OGIzM2UtNThhZS00ZGNlLWI4NzEtZjlhOTNhNmYxZGQ0XkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_SX300.jpg
+17-Título: Batman: Year One - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BNTJjMmVkZjctNjNjMS00ZmI2LTlmYWEtOWNiYmQxYjY0YWVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+18-Título: Batman: Assault on Arkham - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BZDU1ZGRiY2YtYmZjMi00ZDQwLWJjMWMtNzUwNDMwYjQ4ZTVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+19-Título: Batman Beyond - Ano Lançamento: 1999–2001 - Capa: https://m.media-amazon.com/images/M/MV5BZWJhNjA4YTAtODBlMS00NjIzLThhZWUtOGYxMGM3OTRmNDZmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg
+20-Título: Batman: Gotham Knight - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BM2I0YTFjOTUtMWYzNC00ZTgyLTk2NWEtMmE3N2VlYjEwN2JlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+21-Título: Batman: Arkham City - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BZDE2ZDFhMDAtMDAzZC00ZmY3LThlMTItMGFjMzRlYzExOGE1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+22-Título: Son of Batman - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BYjdkZWFhNzctYmNhNy00NGM5LTg0Y2YtZWM4NmU2MWQ3ODVkXkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg
+23-Título: Superman/Batman: Apocalypse - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+24-Título: Batman Beyond: Return of the Joker - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg
+25-Título: Batman - Ano Lançamento: 1966–1968 - Capa: https://m.media-amazon.com/images/M/MV5BMTkzNDY5NTg5MF5BMl5BanBnXkFtZTgwNzI4NzM1MjE@._V1_SX300.jpg
+26-Título: Superman/Batman: Public Enemies - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+27-Título: Batman: Bad Blood - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZWZiZmZhYmQtYjVkZi00MWIzLWEzM2MtYzhkNjliNzc2MTMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+28-Título: Batman Ninja - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BMjFlMDc2NGMtYjkyMS00MTlhLTgxNWItMmYxZjc5NzVhMGE0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg
+29-Título: Batman vs. Robin - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMjI0ODY2MDE5Nl5BMl5BanBnXkFtZTgwMTk0NTcyNTE@._V1_SX300.jpg
+30-Título: Batman: Arkham Asylum - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMWE1MGI0ZmItNzU2My00Mzk5LThkNTMtMmFiMjRiZDNlNzkwXkEyXkFqcGdeQXVyNjgyODQ1Mzk@._V1_SX300.jpg
+31-Título: The New Batman Adventures - Ano Lançamento: 1997–1999 - Capa: https://m.media-amazon.com/images/M/MV5BY2JkYjE4MWYtMGJlZC00OWVhLWJlMmUtNGQzYjM0ZDUxNGI2XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SX300.jpg
+32-Título: Batman: Gotham by Gaslight - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BYTJhNjYyMGItODdhOC00ZTZmLTk1MTMtZDRhMmZkYTRiOGJkXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SX300.jpg
+33-Título: Batman: The Long Halloween, Part One - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BNDBkYTJjZjgtNDlhNi00ZTE1LWI2NmYtMDBjMDUzOWMwNzQwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+34-Título: Batman: Hush - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BYWY5ODhlMWQtNDRiMC00MDk0LTgyMDItYmRmYWFkMjdmYWFmXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg
+35-Título: Batman & Mr. Freeze: SubZero - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BOTQ0NmUzMzAtODk5My00MzYwLThlYWEtY2NkOGNhODg5ZmY1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg
+36-Título: Batman and Harley Quinn - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNTQzM2JkYTAtY2ExNi00N2ZhLWE5NDctMDQyMWU5ZjcwZDEwXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SX300.jpg
+37-Título: Batman: The Long Halloween, Part Two - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BOThjY2UzNDUtYWMzZC00MjJlLThmZTktZTY5ZjI1N2FiYTU5XkEyXkFqcGdeQXVyMTAwMjYyMjQ2._V1_SX300.jpg
+38-Título: Batman Begins - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BYWRkMGNjYmQtMTJlMi00ODgyLWIyZGEtOTZkY2FlZWI3NzIwXkEyXkFqcGdeQXVyNDEyNjEzOTg@._V1_SX300.jpg
+39-Título: The Batman - Ano Lançamento: 2004–2008 - Capa: https://m.media-amazon.com/images/M/MV5BZDExMWQ5MDQtMWNjNy00M2EzLWE1M2EtYzFhNDVhM2Q5MDI1XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg
+40-Título: Batman: Arkham Origins - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMzczNTkxODU5NF5BMl5BanBnXkFtZTgwNDcwMzU1MDE@._V1_SX300.jpg
+41-Título: Batman: Mystery of the Batwoman - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BN2IwYTVlZGQtOTRhNy00MDI5LThmMTUtYWI1MGUwMGFkYzI1XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg
+42-Título: The Batman Superman Movie: World's Finest - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BZTQ3YWJhODMtYTdmNC00MmZiLThhOWYtM2UxZDBjNjRlY2EwXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_SX300.jpg
+43-Título: Batman: The Brave and the Bold - Ano Lançamento: 2008–2011 - Capa: https://m.media-amazon.com/images/M/MV5BYzAyMzZjMDMtYTYyZS00NGJlLWI2ZmQtZTQ3ZGJmNjYwZWFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+44-Título: Batman vs Teenage Mutant Ninja Turtles - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_SX300.jpg
+45-Título: The Batman vs. Dracula - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTkyMTMwNjA3MV5BMl5BanBnXkFtZTcwNzE2NTI2OQ@@._V1_SX300.jpg
+46-Título: Batman: Arkham Knight - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMTc0MTcxMzQ0Ml5BMl5BanBnXkFtZTgwNDc3MzE0MTE@._V1_SX300.jpg
+47-Título: Batman: Soul of the Dragon - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BYmQ4YjZlZjAtYzljOS00ZjViLWE1NGYtMzlmZDZjZTcxYzRiXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+48-Título: Batman Beyond: The Movie - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BZjdjN2VjMDQtZjc2Ni00ZTIxLWIzYjktOTE0MTY3ZTFiNGZiXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_SX300.jpg
+49-Título: Batman: Dead End - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BMTkzMDI0MTIyNF5BMl5BanBnXkFtZTYwMTUxMTY3._V1_SX300.jpg
+50-Título: Batman: Return of the Caped Crusaders - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BOTdlNjNhOGEtZTk2Yy00MjI5LTllOTMtODczMWFmNmNhZmVlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+51-Título: Lego Batman: The Movie - DC Super Heroes Unite - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BNjRjOGU2NzUtMjAwOC00MDI3LThmNmUtNTVkZTQ0MDEyYTc1XkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_SX300.jpg
+52-Título: Beware the Batman - Ano Lançamento: 2013–2014 - Capa: https://m.media-amazon.com/images/M/MV5BMjY2ZmMyZTMtMDBiYi00MTZlLWFmZjAtYzE2NWE4OTBmYTJiXkEyXkFqcGdeQXVyMTI1MzYzODMy._V1_SX300.jpg
+53-Título: Batman vs. Two-Face - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BY2MyY2NjNzgtZDAxNi00OWM2LTg3MDUtOTcyOGU1OTdjODNjXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SX300.jpg
+54-Título: Batman: The Telltale Series - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMDQ0YTU2ZjgtZmZiZC00YWM2LTljYWYtOWI2NzUzZmIwMzg4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg
+55-Título: Batman Unlimited: Animal Instincts - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ2NTAyNDY0NF5BMl5BanBnXkFtZTgwMjc0Mzc1NTE@._V1_SX300.jpg
+56-Título: Lego Batman: The Videogame - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BZjViNzNkNjAtMGZmZi00MDM2LTk1OGUtYjVlNzhjNjIxNDgwXkEyXkFqcGdeQXVyMTAyNzc0MDkz._V1_SX300.jpg
+57-Título: Batman Unlimited: Monster Mayhem - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BZTFlMGFmNWUtNzExNy00ZWY2LWIxN2ItODFlYTg5YzEzYmU3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg
+58-Título: Scooby-Doo & Batman: The Brave and the Bold - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BNzg1NGY1YjItMDc5MC00NDkwLTgxZTItNjFlYWM5YzI1ZGNiXkEyXkFqcGdeQXVyMzc1MzYxMjc@._V1_SX300.jpg
+59-Título: Batman Beyond - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNmU0N2Y5M2ItMWZlMi00OWQwLTk4NWYtNDc5OWE2YzYzZTZmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg
+60-Título: Batman - Ano Lançamento: 1943 - Capa: https://m.media-amazon.com/images/M/MV5BNTIzMDI1MTk3Nl5BMl5BanBnXkFtZTgwODE4NzM1MjE@._V1_SX300.jpg
+61-Título: Batman: The Dark Knight - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMzRjOTg1YWYtZTE0NC00MGI5LTlmNDAtMzllM2M1MmQ4N2ViXkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SX300.jpg
+62-Título: Batman & Bill - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BYjYzZjc2ZTQtYmQyYy00NTk5LThmMTItNWQyNzk3MjNkYzEwXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_SX300.jpg
+63-Título: Lego Batman 2: DC Super Heroes - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BNWFmYjczZjgtMDI1Yi00ZTkyLTgzYTQtY2MzOTFlMTMwMDM5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg
+64-Título: Batman and Robin - Ano Lançamento: 1949 - Capa: https://m.media-amazon.com/images/M/MV5BMTk3MzU1OTM2Nl5BMl5BanBnXkFtZTgwOTIyODM1MjE@._V1_SX300.jpg
+65-Título: Batman: Death in the Family - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZWNhNzk2YjItOWZiZC00ZGM0LTg2NjUtYzgwYWQzNjk0NjlmXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+66-Título: Batman: Strange Days - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BYjEzNWU5NzctMDgwNS00NThlLWI1YzEtYjVkYzNiOWU2YWIzXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg
+67-Título: Batman Unlimited: Mechs vs. Mutants - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZWVhZTNmZTQtZTgwYS00YWE5LThjMjktMjFkNjEwYzdkODA2XkEyXkFqcGdeQXVyNDM1NDAyNDk@._V1_SX300.jpg
+68-Título: The Batman/Superman Hour - Ano Lançamento: 1968–1969 - Capa: https://m.media-amazon.com/images/M/MV5BMzg5YTIzNjktZDU1MS00YmVhLWJjY2ItNWE5NjQ3Nzg1OTAwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+69-Título: Lego DC Comics: Batman Be-Leaguered - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BYjQwMTU4MWYtMzIyNi00YmM2LTliYzEtOTk4OWUwYTQ3ZjY5XkEyXkFqcGdeQXVyNjI2MDk3MTU@._V1_SX300.jpg
+70-Título: Batman: The Dark Knight Returns - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMjExMGE4NDQtM2MwMS00YzhlLTlkYjgtNmExNzM1ZDBhYzg1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg
+71-Título: Lego Batman 3: Beyond Gotham - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BY2Q5YWY4YTEtYzBmOS00MzE3LTgwOTYtYTBmZTdiNjMzNDY5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg
+72-Título: Lego DC Batman: Family Matters - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BODU1ODlhNGEtZGNlOC00NTU0LThhMmItNzVmZjQxOGE1MGMxXkEyXkFqcGdeQXVyMjQ0OTA1Nzc@._V1_SX300.jpg
+73-Título: The New Adventures of Batman - Ano Lançamento: 1977–1978 - Capa: https://m.media-amazon.com/images/M/MV5BOTI0MDgyYjUtNGQxMS00MzFlLTllMGUtZDRhZmFjYzgwZjg3XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+74-Título: Batman: The Long Halloween - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BNjNmNjJhZTUtMGM2Zi00YTBiLThjOWItYmE0NjRjNzgxNzMwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg
+75-Título: The Death of Batman - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BNjM2OTIyMDE2MF5BMl5BanBnXkFtZTcwMjQzNTM4Ng@@._V1_SX300.jpg
+76-Título: Scooby-Doo Meets Batman - Ano Lançamento: 1972 - Capa: https://m.media-amazon.com/images/M/MV5BNGRkNmFhNDUtNWIxZS00MmMwLWFjNDAtYTc1NTJlZDkzZTI0XkEyXkFqcGdeQXVyNTMyODM3MTg@._V1_SX300.jpg
+77-Título: Batman Unlimited - Ano Lançamento: 2015–2016 - Capa: https://m.media-amazon.com/images/M/MV5BNTI0M2ZkYmItNDEyZi00ODMzLWIxMzktNjY1MjA5ZTFjZDMzXkEyXkFqcGdeQXVyNTQzMjAxMzA@._V1_SX300.jpg
+78-Título: Superman, Spiderman or Batman - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BMjQ4MzcxNDU3N15BMl5BanBnXkFtZTgwOTE1MzMxNzE@._V1_SX300.jpg
+79-Título: Batman Unmasked - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BNjVlMjczMGItNTM5Ny00ZjFlLThjNTctYjIxN2IwMzQzMGY5XkEyXkFqcGdeQXVyNjU0NzE1NDY@._V1_SX300.jpg
+80-Título: Batman: Arkham Knight - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMjEzNDA4MDI0N15BMl5BanBnXkFtZTgwNjk2ODc4MDE@._V1_SX300.jpg
+81-Título: Batman: Arkham Origins - Blackgate - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMTQxMzYxMzE1M15BMl5BanBnXkFtZTgwNjExMzc1MDE@._V1_SX300.jpg
+82-Título: Batman Legends - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BMjBiNjQwMTktNzUwYi00ZjlkLTk3YTctYWFjNzkwZGQwNDg0XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+83-Título: Batman: Rise of Sin Tzu - Ano Lançamento: 2003 - Capa: https://m.media-amazon.com/images/M/MV5BZGQyMmU0ODQtMzNiMS00ZDM2LTkzMzEtNzZkNjQxZmQ1N2VmXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+84-Título: Batman: Black and White - Ano Lançamento: 2008– - Capa: https://m.media-amazon.com/images/M/MV5BNDdhMTVlNDgtY2VlYy00YmU0LWI2YzctYWYwMmVkZjFiYWU0XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+85-Título: Batman: Vengeance - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BOGQ1NzIxNWUtNWUyNi00YzgxLTgyMjUtNzc4OGI3YWZmZWMzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg
+86-Título: Batman: New Times - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTY4Nzc4MTE5OF5BMl5BanBnXkFtZTcwMjcwMzY2Ng@@._V1_SX300.jpg
+87-Título: The Batman Chronicles - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ4NTY1MjU3NF5BMl5BanBnXkFtZTgwMjY5NzM4MTE@._V1_SX300.jpg
+88-Título: Legends of the Dark Knight: The History of Batman - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BOThhYmY3MjItMWFiZC00ZmRjLTg1NmQtMzdkMDJkYzc0ZDNhXkEyXkFqcGdeQXVyNzAwMjQwMTA@._V1_SX300.jpg
+89-Título: Batman: Arkham Origins - Cold, Cold Heart - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BOTI3ODMyMzAtNjc5YS00MWMyLWFiZGItN2M3MjJjMDk1ZDkxXkEyXkFqcGdeQXVyNTQ2MjM5MTg@._V1_SX300.jpg
+90-Título: Batman Dracula - Ano Lançamento: 1964 - Capa: https://m.media-amazon.com/images/M/MV5BYzhiYTYyMWQtZmNmMy00YzU2LWFkNjctOTA5MmZlNzVjMzI5XkEyXkFqcGdeQXVyNjUzNTMxNDY@._V1_SX300.jpg
+91-Título: Batman Beyond - Ano Lançamento: 2015– - Capa: https://m.media-amazon.com/images/M/MV5BMjA2NTQ5NzkzM15BMl5BanBnXkFtZTgwNjc4NjY5NTE@._V1_SX300.jpg
+92-Título: Batman: The Journey Begins - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BYTc0MjQ1MTctZDNlMy00NTZjLTg1MjMtN2NkMGI2ZDAwYjg3XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+93-Título: Batman - Ano Lançamento: 1989 - Capa: N/A
+94-Título: Alyas Batman en Robin - Ano Lançamento: 1991 - Capa: https://m.media-amazon.com/images/M/MV5BNjk2YzkyODctZWRhOC00NDFkLThmNjEtZjE0MTY4N2Q1YWE5XkEyXkFqcGdeQXVyNTYyNzQ2MjY@._V1_SX300.jpg
+95-Título: Batman Returns - Ano Lançamento: 1992 - Capa: N/A
+96-Título: Batman Tech - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BNWM4ZWQ2ODktNWE5Mi00YmZiLTkzOTMtYzZjMTI1ZjU2MjJiXkEyXkFqcGdeQXVyMTc5MjA5MDQ@._V1_SX300.jpg
+97-Título: Batman Is Just Not That Into You - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNTI0YmM5NmQtNzRjMC00ZWQ4LWFkNTUtYzExNTY5M2MwZTQwXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg
+98-Título: Batman Forever: The Arcade Game - Ano Lançamento: 1996 - Capa: https://m.media-amazon.com/images/M/MV5BOGVmYmM3MTktZGU2OC00YzI1LWJlOTUtZDE0NWNkMjA0ODBlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg
+99-Título: Batman: The Tumbler - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BYzNkNDUzYWUtNzJmNi00Y2I3LWJkOTYtMTljMzMyNDAyZmM0XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+100-Título: Batman Beyond - Ano Lançamento: 2000 - Capa: N/A
+101-Título: Batman: Ashes to Ashes - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMjExODYwNjU5OF5BMl5BanBnXkFtZTcwOTEyNzU5Ng@@._V1_SX300.jpg
+102-Título: Batman Begins: Path to Discovery - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNzRlMzBjYjItMmI0YS00MjJiLThiZmUtNGFkMWRkNzAwNjQxXkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+103-Título: Heart of Batman - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BM2VlMzg1ZDMtZTZkMS00YTFjLWE1ZjctYTI2N2I1ZDZiMTNmXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+104-Título: The Adventures of Batman & Robin - Ano Lançamento: 1994 - Capa: https://m.media-amazon.com/images/M/MV5BMTdmYzYzYmYtZWE1Mi00MDdjLTgzNjQtMjM1ZjY1NjRhYzdhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg
+105-Título: Behind the Mask: The Batman Dead End Story - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BODczOTY0MTg1MV5BMl5BanBnXkFtZTgwODgwNjMyMjE@._V1_SX300.jpg
+106-Título: Batman Fights Dracula - Ano Lançamento: 1967 - Capa: https://m.media-amazon.com/images/M/MV5BZjk3ODhjZDUtYmQwZS00MzI0LTgzNWItMjdjYmMxZjM4ZGI3XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_SX300.jpg
+107-Título: Fat Man on Batman with Kevin Smith & Marc Bernardin! - Ano Lançamento: 2015– - Capa: https://m.media-amazon.com/images/M/MV5BZjgwZDlmMGUtYTM4NS00NjEyLWE2OTktYWU5ZmNkNDM4ZGFlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg
+108-Título: James Batman - Ano Lançamento: 1966 - Capa: https://m.media-amazon.com/images/M/MV5BMjU3MGU3ZTktN2M1OS00OGNjLWIyNzEtYzU3Nzg5ZjllODY5XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+109-Título: Batman Arkham City: Harley Quinn's Revenge - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BOWY0NWNlMjUtYzA3YS00YmUwLWI4ZTMtMTM0NzNmNzczNzE2XkEyXkFqcGdeQXVyOTExNzM4NDM@._V1_SX300.jpg
+110-Título: Batman: The Long Halloween - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BODA2YzI0YTctZGYzOS00NzlhLTlmZDAtNjNhYmU1MzJiMjRhXkEyXkFqcGdeQXVyMjI4OTgyODI@._V1_SX300.jpg
+111-Título: Batman Revealed - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTg5MzYwMTM1MV5BMl5BanBnXkFtZTcwNDg4Mjc5OA@@._V1_SX300.jpg
+112-Título: Batman: Arkham VR - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BNGU2MzZkOWQtM2U3Ny00NDQ0LTk3NjctOTE3Mjk5Njc4Y2Y2XkEyXkFqcGdeQXVyNDYyNDIxNDM@._V1_SX300.jpg
+113-Título: Riddle Me This: Why Is Batman Forever? - Ano Lançamento: 1995 - Capa: N/A
+114-Título: Batman & Robin - Ano Lançamento: 1998 - Capa: N/A
+115-Título: Superman vs. Batman: When Heroes Collide - Ano Lançamento: 2013 - Capa: N/A
+116-Título: Batman: Death Wish - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BOTc2ZTEzOGItZmU0YS00Y2Y2LThlNDctNjMxM2ZlNjc3MTkwXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+117-Título: Shadows of the Bat: The Cinematic Saga of the Dark Knight - Batman Unbound - Ano Lançamento: 2005 - Capa: N/A
+118-Título: Lego Batman vs. Superman - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ0MDkwOTQxNV5BMl5BanBnXkFtZTgwOTExNzM2NjE@._V1_SX300.jpg
+119-Título: Batman: The Enemy Within - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BM2Y5NjhlODctMGQ1ZS00Y2I0LTk0YjgtM2Y5MzFkZTBiZTAzXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_SX300.jpg
+120-Título: Batman Adventures: Mad Love - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BNzg1YmE2NTgtZGE3Ny00ZWRjLThiZDMtZTZjZTYzMjE0YTQzXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+121-Título: Batman: Anarchy - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BODM3MmUyYjAtNzk1OS00ZjA1LTk0NmEtY2VkMjkxYjg4YzljXkEyXkFqcGdeQXVyMjE5MjI4NDI@._V1_SX300.jpg
+122-Título: Batman: Abyss - Ano Lançamento: 2013– - Capa: https://m.media-amazon.com/images/M/MV5BMTYyNTA0ODU4MF5BMl5BanBnXkFtZTgwNjk3OTkyNjE@._V1_SX300.jpg
+123-Título: Star Trek Versus Batman - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BN2VkNzk4NzgtMzIyZS00NTNkLTliMjUtODI5MTU3NGI0NGQ3XkEyXkFqcGdeQXVyNjU5MTIxNTM@._V1_SX300.jpg
+124-Título: Batman - Ano Lançamento: 2006 - Capa: N/A
+125-Título: Batman: Dark Tomorrow - Ano Lançamento: 2003 - Capa: N/A
+126-Título: Batman: Revenge of the Joker - Ano Lançamento: 1992 - Capa: https://m.media-amazon.com/images/M/MV5BMjhjZjA1NTUtZTM0NS00MTQ3LWFjOTktNWYwZGM0MjMxZWJiXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+127-Título: Batman: The Brave and the Bold - The Videogame - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BZGJlODUzNzQtMGY4Ny00ZjU0LThjZGUtMDg5ZTUyMzExYmE2XkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+128-Título: Batman: Two Face's Revenge - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMzI2MzU4NDY2OV5BMl5BanBnXkFtZTgwOTA1OTExMjE@._V1_SX300.jpg
+129-Título: Dan Harmon's Batman - Ano Lançamento: 2002 - Capa: https://m.media-amazon.com/images/M/MV5BM2ZlZWU4OWMtZTgzOS00NmI3LTg0MTctYzAwMzFjNWRjNDBlXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_SX300.jpg
+130-Título: Batman and Me: A Devotion to Destiny, the Bob Kane Story - Ano Lançamento: 2008 - Capa: N/A
+131-Título: Batman & Jesus - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BMWNhZGQwNDYtNGZkNC00NzkxLTk2MDYtMzZkMTAyZjAwMDQyXkEyXkFqcGdeQXVyMzgwODQ4Nw@@._V1_SX300.jpg
+132-Título: Batman V Arrow - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BY2UzYzQwNzctMzc2MC00MDk2LTljZjgtMGE3NDdiYmY5MzFiXkEyXkFqcGdeQXVyNDk4MzA4Mjk@._V1_SX300.jpg
+133-Título: Beyond Batman: From Jack to the Joker - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNzA4ZjZkODYtM2Y4NS00NDBjLWE5NjMtYzg2MzUwYjkzOTFjXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+134-Título: Batman Begins: Behind the Mask - Ano Lançamento: 2005 - Capa: N/A
+135-Título: Batman Unlimited: Animal Instincts, Penguin: High Society Criminal - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNmVmOWRhNTYtZjYyNS00ZTU5LTkyNzUtYjZjZmQyMDAwYzdkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg
+136-Título: The Lego Batman, Spider-Man, & Superman Movie - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BZTBkNDI1YTEtYWRhNS00M2JjLWFjY2QtYjFmMWZhNzIzNDFkXkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+137-Título: Bane After Batman with Chris Kattan - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BOTE4NzU0NjI1Ml5BMl5BanBnXkFtZTgwOTE2MDY2MDI@._V1_SX300.jpg
+138-Título: The Batman Shootings - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BZTNkZmE3ZWYtNDc0Ni00MjQwLTlhNWItNWJkZDZhMzRlZGYzXkEyXkFqcGdeQXVyNDMxMTc5OTE@._V1_SX300.jpg
+139-Título: Beyond Batman: Designing the Batsuit - Ano Lançamento: 2005 - Capa: N/A
+140-Título: Superman Meets Batman - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMTgwZTQ2NGMtYmFkMC00ZWRmLWE2Y2YtOGMyYTcyMzVhNzgzXkEyXkFqcGdeQXVyMjU3NTcwNTI@._V1_SX300.jpg
+141-Título: Batman: Gotham City Racer - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BZjk2OGQ0YWYtMTBjNC00NTRiLWIxMDAtZDdiOTgyYjgwNzZiXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+142-Título: Beyond Batman: Visualizing Gotham - The Production Design of Batman - Ano Lançamento: 2005 - Capa: N/A
+143-Título: Batman and Robin - Ano Lançamento: 1964 - Capa: https://m.media-amazon.com/images/M/MV5BN2MxMTZmYjctNDZkNy00M2U5LWE1ZDAtM2IyMGY0ZTM2ODIyXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_SX300.jpg
+144-Título: Beyond Batman: Building the Batmobile - Ano Lançamento: 2005 - Capa: N/A
+145-Título: Batman: The Caped Crusader - Ano Lançamento: 1988 - Capa: N/A
+146-Título: The Amazing Adventures of Little Batman - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BODI0MzgwNzA3MV5BMl5BanBnXkFtZTcwMzc0ODU2MQ@@._V1_SX300.jpg
+147-Título: Batman: The Legacy Continues - Ano Lançamento: 2004 - Capa: N/A
+148-Título: Batman Heroes: Batman - Ano Lançamento: 2005 - Capa: N/A
+149-Título: Batman Villains: The Joker - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNzUyOTcwNzYtZGM5MS00NzYxLWE3N2MtMjBjZDA4MjY2M2FiXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+150-Título: How to, Batman! - Ano Lançamento: 2009– - Capa: https://m.media-amazon.com/images/M/MV5BMjI2NTE3NzA4MV5BMl5BanBnXkFtZTcwNjM5ODI3NA@@._V1_SX300.jpg
+151-Título: Beyond Batman: Assembling the Arctic Army - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNGMyZTllYzEtMGVhZC00ZTc2LTg1M2EtMmJlMTRhNjNjYTVmXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+152-Título: Batman: Dante - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BYjVkODhlNjUtNTY1MC00Yjg0LTkyOTUtZGJlOWQ1Yzg1Y2ZiXkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_SX300.jpg
+153-Título: Beyond Batman: Sleek, Sexy and Sinister - The Costumes of Batman Returns - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BOTZhOTUxODUtZWY1MS00ODllLTlmMGYtNjgxMGFmMTVmZDBmXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg
+154-Título: Beyond Batman: Bats, Mattes & Dark Nights - The Visual FX of Batman Returns - Ano Lançamento: 2005 - Capa: N/A
+155-Título: Beyond Batman: Nocturnal Overtures - The Music of Batman - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTc3YzM4NmEtNzhiZi00ZjQyLWJiOWYtOWI0NWI2Y2IwOWUxXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+156-Título: Beyond Batman: Gotham City Revisited - The Production Design of Batman Returns - Ano Lançamento: 2005 - Capa: N/A
+157-Título: Lego Batman: Jokers Team-Up! - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BMzk4YzY1NTYtN2Q2Ni00MDU0LTg4YzAtNzFlNzMyMzMzYTE0XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+158-Título: Batman Evolution - Ano Lançamento: 2014 - Capa: N/A
+159-Título: Beyond Batman: Making Up the Penguin - Ano Lançamento: 2005 - Capa: N/A
+160-Título: Batman Ninja: Made in Japan - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BMjJlMmI5YzAtNzY4YS00YzMzLTk0ZDAtMjUwMWU0OTdhYTkzXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+161-Título: Beyond Batman: Dressed to Thrill - The Costumes of 'Batman & Robin' - Ano Lançamento: 2005 - Capa: N/A
+162-Título: The Lego Batman & Superman Movie - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BZDY3NjhiZDItODg1NC00OTAxLThiMjUtNDRkMTkwZjI1NjQ3XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+163-Título: LEGO Batman vs. Superman 2: Dawn of Just Desserts - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BODlmNDE4OTQtZGMzOS00Y2U2LWE3MDYtMWVmNDliNGFkNTgxXkEyXkFqcGdeQXVyMTUyMjc4OQ@@._V1_SX300.jpg
+164-Título: Beyond Batman: Inside the Elfman Studio - The Music of Batman Returns - Ano Lançamento: 2005 - Capa: N/A
+165-Título: Fight! Batman, Fight! - Ano Lançamento: 1973 - Capa: https://m.media-amazon.com/images/M/MV5BZGMyYzM3YWYtNGRiYi00MzgxLWJlOWQtYjEyNGU5YWZjODAyXkEyXkFqcGdeQXVyMjQxMDc1NDc@._V1_SX300.jpg
+166-Título: Batman Returns Villains: Catwoman - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BYThjMGZhOTEtNTZiYy00NDE0LTk2NWQtZTZlMjU3ZTVkYmY3XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg
+167-Título: A First Look at Batman: Under the Red Hood - Ano Lançamento: 2010 - Capa: N/A
+168-Título: Batman - Ano Lançamento: 1989 - Capa: https://m.media-amazon.com/images/M/MV5BNjEwMGJkMDktY2FiZC00MTUzLWEwMjUtNWFkMzQzYWIxMzM0XkEyXkFqcGdeQXVyMDEyNTAwMw@@._V1_SX300.jpg
+169-Título: Bond V Batman: Age of Vengeance - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMmM3YjY2OGUtYTAwMS00YWFiLTk4ZjUtZDEyMDc5MmRjYWYwXkEyXkFqcGdeQXVyNTg4OTQ0NzQ@._V1_SX300.jpg
+170-Título: Lego Batman Rises - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BZWUxYjUwMDctOTFhNy00MjgwLTg2MjEtYmFiMWE4MDY5MzdmXkEyXkFqcGdeQXVyMTE5NTU4OTEx._V1_SX300.jpg
+171-Título: Rifftrax: Batman v. Superman - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNTQ0NGU5OGMtMDE3Ni00ZGEzLThkYmEtODA2OWIxZWY1YTU1XkEyXkFqcGdeQXVyNzkwNTk1NDM@._V1_SX300.jpg
+172-Título: Alyas Batman at Robin - Ano Lançamento: 1965 - Capa: https://m.media-amazon.com/images/M/MV5BM2Y4Y2UzYTUtYWMwYS00ZDA0LThlMjEtOTkyNjVkYzBiNTI5XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+173-Título: Beyond Batman: Freeze Frame - The Visual FX of 'Batman & Robin' - Ano Lançamento: 2005 - Capa: N/A
+174-Título: Gay Batman - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMjA3OTA0OTUxOF5BMl5BanBnXkFtZTgwNTc0MzkwMjE@._V1_SX300.jpg
+175-Título: Batman: Legend of Arkham City - Ano Lançamento: 2012 - Capa: N/A
+176-Título: Gay Batman Forever - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BYzc3NDBiOTctZTlkMi00Y2Y2LTlmNmQtY2MxY2UyYTgyNTIyXkEyXkFqcGdeQXVyMjIyNjc3OTI@._V1_SX300.jpg
+177-Título: Lego Batman: Nightwing's Return - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BYjZjZjZjY2ItOThkYi00ZTNlLTkzNDUtZDcwNjJiNTg2ZWE0XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+178-Título: Batman v Superman - Ano Lançamento: 2013 - Capa: N/A
+179-Título: Batman Beyond: Return of the Joker - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BN2YyMzUzZTctNDlhNi00OWIzLTkxNWItMGM4NjEzNDc2YmYzXkEyXkFqcGdeQXVyMjI2ODkzODY@._V1_SX300.jpg
+180-Título: Beyond Batman: 'Those Wonderful Toys' - The Props & Gadgets of Batman - Ano Lançamento: 2005 - Capa: N/A
+181-Título: Beyond Batman: Maximum Overdrive - The Vehicles of 'Batman & Robin' - Ano Lançamento: 2005 - Capa: N/A
+182-Título: Batman Beyond: Zero - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMmUzZDM5NzEtYzEzOS00ZmQyLTg0NDItMTQzZmZlNDM5NWRlXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+183-Título: Batman Date with Destiny - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMjAzMDYzNDc0Nl5BMl5BanBnXkFtZTgwOTUwMzQ1MjE@._V1_SX300.jpg
+184-Título: Bond P Batman - Ano Lançamento: 2016 - Capa: N/A
+185-Título: The Trinity: Wonder Woman, Superman and Batman - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BMWJhYjVlNjItZGNiMy00N2Y0LTlkNjEtNDAxYTQzZWU2Mzk3XkEyXkFqcGdeQXVyMjU4MDc0NzY@._V1_SX300.jpg
+186-Título: Batman Beyond Angel of Death - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BYWIyMjQ2MTUtMGM5Yi00ZWIyLWI3MjUtODU2M2VlNDc4YWI3XkEyXkFqcGdeQXVyMTA5NzI2MQ@@._V1_SX300.jpg
+187-Título: Batman Beyond: Rising Knight - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BYWE1OTllYjYtM2NiNi00ZWMxLWI3M2UtZjUzNTUxM2QyMDI5XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_SX300.jpg
+188-Título: Batman: Chaos in Gotham - Ano Lançamento: 2001 - Capa: N/A
+189-Título: Batman Heroes: Commissioner Gordon - Ano Lançamento: 2005 - Capa: N/A
+190-Título: Batman Returns Villains: The Penguin - Ano Lançamento: 2005 - Capa: N/A
+191-Título: Batman: Secrets of the Caped Crusader - Ano Lançamento: 1992 - Capa: https://m.media-amazon.com/images/M/MV5BZGY5YTkzYjgtMjgzNy00Y2QxLThiYjItNmY5MjI0YjAzN2E3XkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_SX300.jpg
+192-Título: Batman and Robin and the Other Super Heroes - Ano Lançamento: 1989 - Capa: https://m.media-amazon.com/images/M/MV5BMzMyY2YwMDctZGQ2MS00MmYwLWJlOTctYTdkNmJkNjViYjc2XkEyXkFqcGdeQXVyNDU5NjAxMTg@._V1_SX300.jpg
+193-Título: Batman Beyond: Forgotten Memories - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BMGUyYzRhOTYtZGY1OC00ODNjLWJkNzktYWYzZDUyMzhkYmE5XkEyXkFqcGdeQXVyNDU5Nzc4MTg@._V1_SX300.jpg
+194-Título: Gay Batman Returns - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BYmE2OGJjMDAtOTJkMy00YWI3LTgxN2QtNTFlNGFkMDZhNGUyXkEyXkFqcGdeQXVyMjIyNjc3OTI@._V1_SX300.jpg
+195-Título: Batman Beyond Path of Destruction - Ano Lançamento: 2006 - Capa: N/A
+196-Título: Batman: Austerity & Rage - Ano Lançamento: 2016 - Capa: N/A
+197-Título: Batman: Knightmare - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZTQ0NTg1MTAtOTIyNi00MjMzLWFlYjktYTc3MWVkODIzZGUxXkEyXkFqcGdeQXVyMTA1NzczNjI4._V1_SX300.jpg
+198-Título: The Lego Batman and Spider-Man Movie - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BNTY0NTQ3OGEtODMzNi00N2I1LWJlOGYtYjQ2MDQzNzA5NjMxXkEyXkFqcGdeQXVyMTEyMTg5NTYz._V1_SX300.jpg
+199-Título: Batman: Terror of Arkham - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BYTZhMGRhMmEtNGJiZS00NzI0LWI0OWEtM2E3YmQ4MDNjM2RjXkEyXkFqcGdeQXVyMTA1NTk4OTAz._V1_SX300.jpg
+200-Título: Batman: The Shattered Cowl - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BM2NmZjZiNDItZTRmNC00OWU2LWFiNjYtNTVjMWIwNDA0YTQzXkEyXkFqcGdeQXVyNDYyNjUxNTc@._V1_SX300.jpg
+201-Título: Batman vs. Predator - Ano Lançamento: 2013 - Capa: N/A
+202-Título: Um Conto De Batman: Na Psicose Do Ventríloquo - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BOTAyMjgxMTYzMl5BMl5BanBnXkFtZTgwNzY1NDUwMjE@._V1_SX300.jpg
+203-Título: Batman Heroes: Harvey Dent - Ano Lançamento: 2005 - Capa: N/A
+204-Título: Batman Returns Heroes: Alfred - Ano Lançamento: 2005 - Capa: N/A
+205-Título: A First Look at Superman/Batman: Apocalypse - Ano Lançamento: 2010 - Capa: N/A
+206-Título: Batman Featurette - Ano Lançamento: 2001 - Capa: https://m.media-amazon.com/images/M/MV5BOGRlYTBmMWItYjVhNS00Mjg2LTk2NDQtNTRmNWUzYjkzMmNkXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_SX300.jpg
+207-Título: Tro, håb og Batman - Ano Lançamento: 2001 - Capa: N/A
+208-Título: Batman Year One: A Conversation with DC Comics - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BNTM0M2JlMjUtNTcyNi00NTkzLWI5MmQtNmY1MDJmZDExMDhlXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_SX300.jpg
+209-Título: Superman/Batman: When Clark Met Bruce - Ano Lançamento: 2012 - Capa: N/A
+210-Título: Batman and Me - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYzJjOWQ0NmYtZjNjMi00ZmViLThmZjYtYmIxZjI4NDI3ZGRkXkEyXkFqcGdeQXVyMTIwNDE1MzUy._V1_SX300.jpg
+211-Título: The Lego Batman Collection - Ano Lançamento: 2007– - Capa: https://m.media-amazon.com/images/M/MV5BMGUzNGQ5MzAtNWMwMy00Y2VjLWFjNDEtNzdhYmE3YTFhOGVkXkEyXkFqcGdeQXVyMTM3Njg3Nzc2._V1_SX300.jpg
+212-Título: Batman - Ano Lançamento: 1991 - Capa: N/A
+213-Título: Batman vs. Catwoman - Ano Lançamento: 2013 - Capa: N/A
+214-Título: The Lego Batman & Spider-Man Movie - Ano Lançamento: 2009 - Capa: N/A
+215-Título: Hanging with Batman - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BOWEzZjljMDAtMWJiNS00ZGE2LWE4MjQtY2JkN2Q5NWJlOTg2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_SX300.jpg
+216-Título: Batman Returns Villains: Max Shreck - Ano Lançamento: 2005 - Capa: N/A
+217-Título: Batman & Robin: Pillow Talk - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMTk2ODgwNDgyMF5BMl5BanBnXkFtZTcwMzg0OTAxNA@@._V1_SX300.jpg
+218-Título: Batman Villains: Bob the Goon - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNmU3YWE4ZmYtNGYxZi00MmQ2LWI3NDgtZDg1N2UxN2ZiM2IwXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+219-Título: A Test of Minds: The Psychology of Superman and Batman - Ano Lançamento: 2009 - Capa: N/A
+220-Título: Batman Heroes: Alexander Knox - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTk2MTM4ZDYtYTgxYS00NzkxLTk0OTAtZWM5OWVmZjNjYWE2XkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+221-Título: Batman Forever Heroes: Dr. Chase Meridian - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BOTdiNDcyYTUtMmYwZC00NDk4LTg5YjgtYzRiODRkMmE3NTRjXkEyXkFqcGdeQXVyMTM5NzI3OTA@._V1_SX300.jpg
+222-Título: The Lego Batman & Spider-Man Movie 2 - Ano Lançamento: 2009 - Capa: N/A
+223-Título: B@ (Batman Parody Film) - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BNjdhZjM0NGYtMjgxOC00NTkxLTg1ZTEtMjZhNDhjYjZjMjFlXkEyXkFqcGdeQXVyMjQ5MDAyNzc@._V1_SX300.jpg
+224-Título: The Lego Batman & Santa Team-Up! - Ano Lançamento: 2012 - Capa: N/A
+225-Título: Batman Heroes: Vicki Vale - Ano Lançamento: 2005 - Capa: N/A
+226-Título: Batman Rebuilt - Ano Lançamento: 2008 - Capa: N/A
+227-Título: Batman: Master of Fear - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BMzJkZjU5ZDItNmEwMi00NGRiLWIyMDAtOTFiOGY0NmY0YTdhXkEyXkFqcGdeQXVyNjkwMTY4MDI@._V1_SX300.jpg
+228-Título: Batman vs. Superman Hawaii - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BM2U1NDhhNzMtM2UyMy00YzBlLWE5YjAtM2IyMDg4N2ZjNTc3XkEyXkFqcGdeQXVyMjMyMTA4MTc@._V1_SX300.jpg
+229-Título: Batman: Night's End - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BMDE1ZjM3OWMtODFkZS00MzU3LTgzZWEtMmQ4YWE3NzEzOTI1XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+230-Título: Batman: Behind the Mystery - Ano Lançamento: 2003 - Capa: N/A
+231-Título: Batman: The Abridgimated One-Shot - Ano Lançamento: 2011 - Capa: N/A
+232-Título: Batman: Dark Flight - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BNGUzYzkyYzEtYTUyYy00NGM0LWEzZGMtNzg4Y2QxZWM2YWQ3XkEyXkFqcGdeQXVyMDQzODc1OA@@._V1_SX300.jpg
+233-Título: Batman: The Birth of the Modern Blockbuster - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNzE5NDVkYmEtMTM4Mi00MmRiLWIwZjUtZmRmNWI3NGU4ODFlXkEyXkFqcGdeQXVyNDMxMTc5OTE@._V1_SX300.jpg
+234-Título: Batman Retired - Ano Lançamento: 2012 - Capa: N/A
+235-Título: Batman: Crusader - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNWUxNDYzYTItMGUzZS00ZjgyLWFhYjctZjYwNjM5NjI2ODY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_SX300.jpg
+236-Título: Lego Star Wars, Batman and Indiana Jones Movie - Ano Lançamento: 2009 - Capa: N/A
+237-Título: The Adventures of Batman & Robin Activity Center - Ano Lançamento: 1996 - Capa: https://m.media-amazon.com/images/M/MV5BYTNmMTlhMWYtOTE3My00YjRjLWE1MzgtZGJhZTZkNTJiNGIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQ1NjE0NTk@._V1_SX300.jpg
+238-Título: One Brick at a Time: Making the Lego Batman Movie - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNjE1YjQwNjEtMzlkNS00NThkLTgzNDItZWQ4YjRkMGZlNzJhXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+239-Título: Batman: The Death of Robin - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BZjgwMjVmNmYtNDhkOC00ZmY5LWE3YTQtYzViYmEyYTU2NmYwXkEyXkFqcGdeQXVyMTA1NzczNjI4._V1_SX300.jpg
+240-Título: The Worst Batman Fanfilm Ever... Period - Ano Lançamento: 2016 - Capa: N/A
+241-Título: Thomas/Batman - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZDVhMTZkNjMtMTY4ZS00MzJmLTk2NWItZDljY2Y1Mzk2OThmXkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_SX300.jpg
+242-Título: Batman: The Bloody Valentine - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BNjNkMTRhMGMtNTVkMS00MDdiLTg2MTctNTMyZjA0ZmI5YzRmXkEyXkFqcGdeQXVyMTAwNDM3OA@@._V1_SX300.jpg
+243-Título: Batman Untold - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BZjRiZDM0NzAtYzg1Yy00ZWM3LThmYmQtNzA2MTVlMzk3MzNkXkEyXkFqcGdeQXVyMjI2MTgxNDU@._V1_SX300.jpg
+244-Título: Batman vs Superman: Artist Shahla Yma - Fangirls DOTRT - Ano Lançamento: 2013 - Capa: N/A
+245-Título: Batman Returns Heroes: Batman - Ano Lançamento: 2005 - Capa: N/A
+246-Título: Batman at the Checkpoint - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMGY5YzJkYzktY2Y2Ny00Y2NmLTkyZjUtMjAyY2MzMTE2Y2Y1XkEyXkFqcGdeQXVyODc1NjA2NA@@._V1_SX300.jpg
+247-Título: Batman Forever Villains: The Riddler - Ano Lançamento: 2005 - Capa: N/A
+248-Título: The Making of 'Batman: Dead End' - Ano Lançamento: 2003 - Capa: N/A
+249-Título: Holy Memorabilia Batman! - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNTUyNmZkNmMtYWJlZC00YjFkLWJlZmUtODg4M2UzODkyOTY1XkEyXkFqcGdeQXVyNjUzNjY0NTE@._V1_SX300.jpg
+250-Título: Batman - Ano Lançamento: 1986 - Capa: https://m.media-amazon.com/images/M/MV5BZDk0NDA2NWMtYWQ0Yy00MTBjLTlmZDItYTQyMzc5NDcyNjlmXkEyXkFqcGdeQXVyMTcwNDU4MzU@._V1_SX300.jpg
+251-Título: Batman Begins: Reflections on Writing - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BY2Y2N2EzM2YtZjdhNC00MTYwLWJiNDgtMDVlZDZjMDRlMDY1XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+252-Título: Batman: Arkham Underworld - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZjJjNTVhNDEtMzI0Ny00NDBjLTg1MWQtZjJlYTZjZGNlNmYxXkEyXkFqcGdeQXVyNTk5Nzg0MDE@._V1_SX300.jpg
+253-Título: Batman: Patient Zero - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZTVkZjAxODItMWZiZS00ZDZiLTkxMTYtMDc1MjM0ZGQ0YmQwXkEyXkFqcGdeQXVyNTQ4MzA4NDQ@._V1_SX300.jpg
+254-Título: Lego Batman Retires - Ano Lançamento: 2017 - Capa: N/A
+255-Título: OnStar: Batman - Ano Lançamento: 2000–2002 - Capa: N/A
+256-Título: Batman Arkham Origins: Cold, Cold Heart - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNWE5ZmQxMzMtYzAxNC00NzU2LWIwYzktMmZiMGU1OWFkYmRjXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg
+257-Título: Batman: Face to Face - Ano Lançamento: 2013 - Capa: N/A
+258-Título: Batman Forever Heroes: Robin - Ano Lançamento: 2005 - Capa: N/A
+259-Título: The Death of Batman - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BYjMxYTUwODQtMzczMi00MmFlLTlkMmEtNjZlY2FkZmI3NDdhXkEyXkFqcGdeQXVyMzAyNjQ5NzY@._V1_SX300.jpg
+260-Título: Batman: Two Faces Are Better Than One - Ano Lançamento: 2006 - Capa: N/A
+261-Título: The Batman - Ano Lançamento: 2012 - Capa: N/A
+262-Título: Batman: The Dark Truth - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BMTgwMzc5OTQ3OV5BMl5BanBnXkFtZTgwMTczNTA3NzE@._V1_SX300.jpg
+263-Título: Heart of Vengeance: Returning Batman to His Roots - Ano Lançamento: 2011 - Capa: N/A
+264-Título: GTTV Presents Batman: Arkham Asylum Launched! - Ano Lançamento: 2009 - Capa: N/A
+265-Título: Batman and the Pizza Time part 1 - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZGM1NTdiZjEtMjU3NS00Mjk0LWI4NTctNmU3ODFmY2RhNzVlXkEyXkFqcGdeQXVyODQ3NTg5ODc@._V1_SX300.jpg
+266-Título: The Batman: Bad Joke - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMmMwNzk2ZjktZjA5OS00ZmQ0LWI5OWItNzMyMDA2ZTMzZDQ0XkEyXkFqcGdeQXVyOTY0ODI4MDA@._V1_SX300.jpg
+267-Título: Lego Batman Returns - Ano Lançamento: 2017 - Capa: N/A
+268-Título: Batman Begins Stunts - Ano Lançamento: 2005 - Capa: N/A
+269-Título: Guarding the Balance: Batman and the JLA - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BNmEwNjhhZWUtMTI0MC00NDlhLTgxYTAtNjkyYTMxZmQzNDk1XkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+270-Título: Batman vs Batman - Ano Lançamento: 2012 - Capa: N/A
+271-Título: I Hate Living with You, Batman - Ano Lançamento: 2003 - Capa: N/A
+272-Título: Batman: The Fire Rises - Ano Lançamento: 2013 - Capa: N/A
+273-Título: Batman Hangover - Ano Lançamento: 2013 - Capa: N/A
+274-Título: Batman Vendetta - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BODU0NjQ3MGEtMDQ4Ny00ZmZiLWFlYWUtMWYwZDgzNTFjOTkwXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+275-Título: Beyond Batman: Out of the Shadows - The Production Design of 'Batman Forever' - Ano Lançamento: 2005 - Capa: N/A
+276-Título: Beyond Batman: The Many Faces of Gotham City - Ano Lançamento: 2005 - Capa: N/A
+277-Título: Batman & Robin Villains: Mr. Freeze - Ano Lançamento: 2005 - Capa: N/A
+278-Título: Batman & Robin Villains: Poison Ivy - Ano Lançamento: 2005 - Capa: N/A
+279-Título: Batman Forever Villains: Two-Face - Ano Lançamento: 2005 - Capa: N/A
+280-Título: Beyond Batman: Knight Moves - The Stunts of 'Batman Forever' - Ano Lançamento: 2005 - Capa: N/A
+281-Título: Batman Delivrance - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BOTNlMjAxYzAtODk0Zi00M2FjLTk3MDItZTFkODNlZmRmNTY4XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+282-Título: Crossing Over: Batman Meets Dexter - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BYTlmYmFlMTUtNWVlNS00YTJhLTkxMDctZTI3ZWMwNWQyMmIzXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+283-Título: Batman: The Creep Crusader - Ano Lançamento: 2013 - Capa: N/A
+284-Título: Digital Batman - Ano Lançamento: 2005 - Capa: N/A
+285-Título: What If Tommy Wiseau Directed Batman? - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BZjZjOGQyMjEtMDUzMS00ZTNkLWJhY2UtODRhY2Q2NWU1ODNjXkEyXkFqcGdeQXVyNjc1NDY3NzU@._V1_SX300.jpg
+286-Título: Batman - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BYTc2N2E5YjktZGExNy00MTJmLWJiMWUtYjZlZjA5MTQ0MDg3XkEyXkFqcGdeQXVyMjQxNzM0MjI@._V1_SX300.jpg
+287-Título: Batman v. Superman: A Parody of Justice - Ano Lançamento: 2017 - Capa: N/A
+288-Título: Batman Forever - Ano Lançamento: 1995 - Capa: https://m.media-amazon.com/images/M/MV5BYjdkNTFiZTQtY2I5YS00ZWI4LWFiZTgtZjk4MzViNjQ2ZGJhXkEyXkFqcGdeQXVyNjMxMTE2Mjg@._V1_SX300.jpg
+289-Título: Beyond Batman: Bigger, Bolder, Brighter - The Production Design of 'Batman & Robin' - Ano Lançamento: 2005 - Capa: N/A
+290-Título: Batman Beyond: The Lost Fan Film - Ano Lançamento: 2006 - Capa: N/A
+291-Título: Batman & Robin Heroes: Batman - Ano Lançamento: 2005 - Capa: N/A
+292-Título: Batman by Your Side - Ano Lançamento: 2005 - Capa: N/A
+293-Título: Batman: Partners in Peril - Ano Lançamento: 1996 - Capa: N/A
+294-Título: The Batman Files - Ano Lançamento: 2012– - Capa: N/A
+295-Título: Batman & Robin Heroes: Robin - Ano Lançamento: 2005 - Capa: N/A
+296-Título: Batman & Robin Heroes: Batgirl - Ano Lançamento: 2005 - Capa: N/A
+297-Título: Batman & Robin Villains: Bane - Ano Lançamento: 2005 - Capa: N/A
+298-Título: Batman vs. Superman: Spoof - Ano Lançamento: 2016 - Capa: N/A
+299-Título: Steve Woodier Jr's Batman: The Movie - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMWNiZTI2ZTQtNWIxZC00YjIwLWIxY2ItZmI1ZGQ2MzZlOWFjXkEyXkFqcGdeQXVyMjA4NTU2NTM@._V1_SX300.jpg
+300-Título: View-Master Batman Animated VR - Ano Lançamento: 2016 - Capa: N/A
+301-Título: Batman: Hell On Earth - Ano Lançamento: 2019– - Capa: N/A
+302-Título: Cowabunga, Batman! When Comic Worlds Collide - Ano Lançamento: 2019 - Capa: N/A
+303-Título: Batman: Dark City - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMWQ5NWUyZDYtMjhkZC00MjM0LTllOTYtMzBmNGQ3OGFhYzc0XkEyXkFqcGdeQXVyNzk5OTM5ODg@._V1_SX300.jpg
+304-Título: Batman: Gotham Pizza - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMTI4ZGU5Y2MtZWI1Ni00NjBmLTlmZjMtNDQ1ZDhkNjFjNjBiXkEyXkFqcGdeQXVyODY2NDY0NTU@._V1_SX300.jpg
+305-Título: Lego Batman: The Ridiculous Cape - Ano Lançamento: 2010 - Capa: N/A
+306-Título: Batman: Requiem for a Bat - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMzk2NGE5NDQtNmJjMi00Zjk1LTk1OGUtOGUyMzNjZmEzMDg0XkEyXkFqcGdeQXVyMTA0MzYxODEx._V1_SX300.jpg
+307-Título: East/West Batman - Ano Lançamento: 2018 - Capa: N/A
+308-Título: Batman vs Captain America - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYzM1OWRiNTItY2E2Mi00NGQ5LTgyYzItOTY5MWRlMzBlYWQ5XkEyXkFqcGdeQXVyNjY1ODQxNjE@._V1_SX300.jpg
+309-Título: Realistic Batman Villains - Ano Lançamento: 2011 - Capa: N/A
+310-Título: A Batman Voice Video - Ano Lançamento: 2012 - Capa: N/A
+311-Título: Lonely Batman - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BZThmNjIwMWItZDEzOS00YThlLWJiY2MtYjg1OGE3OTBiMDJiXkEyXkFqcGdeQXVyNjM0MDQ4OTQ@._V1_SX300.jpg
+312-Título: Batman & Robin: To the Fest - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BNDY3ZWNmOTktZDkwMi00MDRjLTgyYzQtODQ1ZjA2ODUyMGM2XkEyXkFqcGdeQXVyNjQzMjAwMjg@._V1_SX300.jpg
+313-Título: Pixel Batman: Enter The Phantom Zone - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMDVjZDQwN2QtZjA4MC00YjZhLWE1ZmQtMjg5YzgwMDFiYzk1XkEyXkFqcGdeQXVyODg2NDM5MTI@._V1_SX300.jpg
+314-Título: BATMAN: TOTAL WAR - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMzRmZTgyY2MtZWQ0Ni00ZDU1LWFiMGMtODcyN2RlYzk2NDA1XkEyXkFqcGdeQXVyNDgxMDEzNQ@@._V1_SX300.jpg
+315-Título: Batman Parody - Ano Lançamento: 2015 - Capa: N/A
+316-Título: Lego Batman Triumphant - Ano Lançamento: 2017 - Capa: N/A
+317-Título: Batman: The Beginning - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BOTMzM2IxMDgtMTViZC00M2Y3LThmMjUtMTExYWVhOTE5ZDAzXkEyXkFqcGdeQXVyNzk5OTM5ODg@._V1_SX300.jpg
+318-Título: Deconstructing Andy Warhol's Batman/Dracula - Ano Lançamento: 2018 - Capa: N/A
+319-Título: The Batman - Ano Lançamento: 2009 - Capa: N/A
+320-Título: Deconstructing Boaz Yakin's Batman Beyond - Ano Lançamento: 2018 - Capa: N/A
+321-Título: Ask Batman - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BYWMzMDllZjUtYmY1Yy00OGE1LTlkYjctOTEyNzBkZDlkMzBkXkEyXkFqcGdeQXVyMzMzODExODA@._V1_SX300.jpg
+322-Título: That's Batman - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BYjBjZDAwMWMtYzY1ZC00YTBlLWEyZGEtZmYyMzAzOTI0MjQ1XkEyXkFqcGdeQXVyMTA1MjQ2MDA4._V1_SX300.jpg
+323-Título: Crane (Batman - DC universe Fan Film) - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BYjVlMmFlNDItMzEwYi00YzkxLWFlNzktMzE0YTY1ZmQwOTBkXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+324-Título: The Batman Minecraft Series - Ano Lançamento: 2019– - Capa: N/A
+325-Título: The Lego Batman Movie 2 - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BM2Q5Yjk4OWQtYjJiYy00NDIwLWFmNTYtNzc3NDE1MWU4NzMxXkEyXkFqcGdeQXVyNzI0NDk4OTE@._V1_SX300.jpg
+326-Título: Batman: The Dark Knight - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BNTU3OGY1NTEtNWFhNy00YjhhLTk5NGQtY2Q5NGNmMDE0OTFlXkEyXkFqcGdeQXVyODc5OTgyODQ@._V1_SX300.jpg
+327-Título: Batman: Joker Escapes! - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BNzNjZjE3NTQtOGJiNy00YWZiLTg0YmUtMTYzY2ZjOGE4ZmVkXkEyXkFqcGdeQXVyODMyMjU2NzQ@._V1_SX300.jpg
+328-Título: The Batman - Ano Lançamento: 2020 - Capa: N/A
+329-Título: Spectre Studios' Batman - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BN2U0OTYyOGMtNjVhMC00OGMxLTgzNDEtYmIzOTdhYjY4MDk4XkEyXkFqcGdeQXVyMTEwODA3OTI2._V1_SX300.jpg
+330-Título: Happy Birthday, Batman! - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BOTI1MmEzOTgtNGIyNi00ODExLTk1MzItZGFkNjI0NGIyYTFhXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg
+331-Título: Batman Alley - Ano Lançamento: 2018 - Capa: N/A
+332-Título: The Batman - Ano Lançamento: 2016 - Capa: N/A
+333-Título: Batman: Dawn of Fear - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BZmUyY2NkMTQtNTk0ZS00ZjA4LWJlOWMtMGNmYWI5NzE3YzQxXkEyXkFqcGdeQXVyMTA0MzYxODEx._V1_SX300.jpg
+334-Título: Batman: Most Wanted - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BYTM3ZGIwYjQtYTE1My00MGRiLWJlMGItMDc2NDhkZDEyMTQyXkEyXkFqcGdeQXVyMTE1NTM5MTIy._V1_SX300.jpg
+335-Título: Batman v Superman: Animated - Ano Lançamento: 2015 - Capa: N/A
+336-Título: Batman - 80 Years of the Dark Knight (DCAU) - Ano Lançamento: 2019 - Capa: N/A
+337-Título: Batman - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BZjg2MzVhZDgtYjZiMi00NmM0LTlkYTgtYmFhODkyM2Y4ODFlXkEyXkFqcGdeQXVyMzI5NDExMTE@._V1_SX300.jpg
+338-Título: Batman, the Punchline - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BNTM3ZjBjYWMtZWVmYi00MTM2LTg3Y2QtNWMyMDk0YTQxYjY1XkEyXkFqcGdeQXVyNjkyNjg2MjI@._V1_SX300.jpg
+339-Título: Superfan Dogs: Batman and Superman Comics - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BMDhjMGUwYzUtMWY3MS00Y2M2LWE3NGMtNzUwMzBhZjY1ODc3XkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_SX300.jpg
+340-Título: Batman & Robin Forever - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNzkzYjBjMzktNDFmNC00NTE3LWE1MzMtNmEyZTI1MjFjOGMwXkEyXkFqcGdeQXVyMjQ1NzY3MjQ@._V1_SX300.jpg
+341-Título: Batman: A Beautiful Lie - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BNTZmZTAxZDctN2FhOC00ZWFjLThiYjMtMTBiNDg4Y2NmYzQ4XkEyXkFqcGdeQXVyMTIwMTEzNjQ2._V1_SX300.jpg
+342-Título: Batman: Dawn of the Knight - Ano Lançamento: 2021 - Capa: N/A
+343-Título: Batman Missions - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BNDExZmM3NTYtY2MzMS00ZDUzLTk1NDEtNTcxNWRhOTUwNDE1XkEyXkFqcGdeQXVyNDU0OTA0ODI@._V1_SX300.jpg
+344-Título: Terrible Batman Begins Remake - Ano Lançamento: 2007 - Capa: N/A
+345-Título: LEGO Batman: Crime War - Ano Lançamento: 2018 - Capa: N/A
+346-Título: Untitled Batman/HBO Max Project - Ano Lançamento: 2022– - Capa: N/A
+347-Título: LEGO Dark Knights: The Batman who Laughs - Ano Lançamento: 2020– - Capa: N/A
+348-Título: What if Batman - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNzE0NDlmYjktMWJhOS00YTBhLWJiZDktMTFkMjg1NTgxMWIxXkEyXkFqcGdeQXVyNzAwOTIwNTI@._V1_SX300.jpg
+349-Título: Lego Batman: Rebrick Contest Winners - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZDFjMTA1MWQtZDE0ZC00MDVmLWI4YzMtNGMzYTQwN2FmNTIwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+350-Título: Lego Batman: Me & My Minifig - Michael Cera - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZjczY2E3OGUtZjFiYi00ZjI3LThkOTctZjQ1Yjc3ZWZhM2VmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+351-Título: Lego Batman: Me & My Minifig - Rosario Dawson - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZDU0MGYxMTYtYWNlMi00YjE2LTg2NmUtMDMxY2VlZDhhZmIwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+352-Título: Lego Batman: Me and My Minifig - Will Arnett - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZjE3ZGVlY2MtNDNmYy00YzU1LThiNGYtZDNiNDVlYzI4MTA4XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+353-Título: Batman V Superman: League at War - Ano Lançamento: 2018 - Capa: N/A
+354-Título: Lego Batman: Arkham City Vol. 2 - Ano Lançamento: 2017 - Capa: N/A
+355-Título: The Naked Babes of Batman - Ano Lançamento: 2016 - Capa: N/A
+356-Título: Lego Batman: Arkham City Vol. 3 - Ano Lançamento: 2017 - Capa: N/A
+357-Título: Batman: The White Knight - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BOGQwNjhjNmItZjgyYy00NmJmLWE5ZTgtNDkxYTM4ODg3MWFlXkEyXkFqcGdeQXVyNzEwOTAyMzc@._V1_SX300.jpg
+358-Título: Purple and Green (Batman Fan Film) - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BMDlhNjI3MmYtZDRiNS00MTZmLWE4NTAtYjg0MjEwYmFhZDdmXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+359-Título: Batman: Year One - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BYTMzNzAxOTAtZTFmOS00NWQ5LWI2MzQtODQwZjc1NzcwM2ZmXkEyXkFqcGdeQXVyNzEwOTAyMzc@._V1_SX300.jpg
+360-Título: Batman Beyond - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BMDkxN2MyYWEtYmRlMC00ZTY4LTliYzktZDlmMTg3ZTIyNjg3XkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_SX300.jpg
+361-Título: Batman the Dawn of the Knight - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNGViZTg3NzMtOGYzMC00YTk4LTkwY2ItOWU3MjBiNGJiZjIzXkEyXkFqcGdeQXVyNjgyMjM1NTc@._V1_SX300.jpg
+362-Título: Batman the Rise of Red Hood - Ano Lançamento: 2018 - Capa: N/A
+363-Título: Puppets vs. People: Batman vs. the Homeless - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BMmI1ZGVmMjktN2U3Zi00NmFmLWI5YmEtNTlmYzcwODJmNzhlXkEyXkFqcGdeQXVyNzgyNDUxNDg@._V1_SX300.jpg
+364-Título: Silly Batman: Episode 1, Everything is Awesome! - Ano Lançamento: 2015 - Capa: N/A
+365-Título: Thomas & Friends: DC Super Friends San Diego Comic Con Ft. Thomas as Superman & Diesel as Batman - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BOTU2NmQxMjYtZWI1Mi00MTgxLTk1ODYtZWM3ODQzZTI3YzE1XkEyXkFqcGdeQXVyMjIzMTU3Mjk@._V1_SX300.jpg
+366-Título: The Batman (Animated MC Series) - Ano Lançamento: 2018– - Capa: N/A
+367-Título: Office Batman - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BY2Y2MTk2NTMtMjEyOC00Yjg1LThjODUtMWUxMWNlMDNkMzI2XkEyXkFqcGdeQXVyODAwMDI4OTQ@._V1_SX300.jpg
+368-Título: Batman: Son of Gotham - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BMzA5Yjk3MDItZTJiZC00ODQzLTlkMGEtYmExNmYwYTU1ZTllXkEyXkFqcGdeQXVyMzQxNTk5OTY@._V1_SX300.jpg
+369-Título: Good Knight (AKA Batman) - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNjMyOGU1ZmUtNTBiMi00MDQyLTg1YjAtMmFhNjQ2YzRmZmI0XkEyXkFqcGdeQXVyMTk1OTA1Mw@@._V1_SX300.jpg
+370-Título: Because I'm Batman Films - Ano Lançamento: 2014– - Capa: N/A
+371-Título: Batman v Superman: Dawn of Breakfast - Ano Lançamento: 2016 - Capa: N/A
+372-Título: Hot Wheels All Access: Batman v. Superman - Ano Lançamento: 2016 - Capa: N/A
+373-Título: Batman Returns - Ano Lançamento: 1993 - Capa: N/A
+374-Título: Batman: Return of the Joker - Ano Lançamento: 1991 - Capa: https://m.media-amazon.com/images/M/MV5BMTI1NTcwYzgtZjhhNS00Y2JlLTk5NGEtMTUyNzA1M2MxYWE1XkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg
+375-Título: Lego Batman: Origins Vol. 1 - Ano Lançamento: 2016 - Capa: N/A
+376-Título: Lego Batman: Origins Vol. 2 - Ano Lançamento: 2016 - Capa: N/A
+377-Título: Lego Batman: Origins Vol. 3 - Ano Lançamento: 2016 - Capa: N/A
+378-Título: Lego Batman: Dark Knight Vol. 1 - Ano Lançamento: 2016 - Capa: N/A
+379-Título: Lego Batman: Dark Knight Vol. 2 - Ano Lançamento: 2016 - Capa: N/A
+380-Título: Lego Batman: Dark Knight Vol. 3 - Ano Lançamento: 2016 - Capa: N/A
+381-Título: Lego Batman: Arkham City Vol. 1 - Ano Lançamento: 2016 - Capa: N/A
+382-Título: How I Be Batman - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZmFjNGU1NDctMjI2Zi00MTYzLThkMDItYWVjYzJmNDFlZDcyXkEyXkFqcGdeQXVyNzQ3MzA1MzM@._V1_SX300.jpg
+383-Título: Batman: The Final Victory - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BZDVmNmEwZjYtZjNlNC00M2JlLThiM2MtYzE4MjNjOTU4NjQ5XkEyXkFqcGdeQXVyMjI2OTEzMDA@._V1_SX300.jpg
+384-Título: Batman vs Superman: The Best Superpower Ever - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+385-Título: B@: It's a Wonderful Life, Batman! - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BOTdhMjQ3YWEtNjdhNC00MTg3LWI2M2EtOTUwNTc2ODkwOTlhL2ltYWdlXkEyXkFqcGdeQXVyMjQ5MDAyNzc@._V1_SX300.jpg
+386-Título: Batman vs. Superman: The Clones of Justice - Ano Lançamento: 2015 - Capa: N/A
+387-Título: Adis Games: Batman Arkham/Return to Arkham - Ano Lançamento: 2016– - Capa: N/A
+388-Título: Bloody Batman - Ano Lançamento: 2015 - Capa: N/A
+389-Título: Batman Is Awesome - Ano Lançamento: 2015 - Capa: N/A
+390-Título: Chicano Batman: Black Lipstick - Ano Lançamento: 2016 - Capa: N/A
+391-Título: Pivot Batman - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BYTQ2MTI1MWYtODNkYS00OGMzLTg1ZjUtNDFjYzliMTM1OTlmXkEyXkFqcGdeQXVyNjQwMTcyMjY@._V1_SX300.jpg
+392-Título: Batman the Dawn of the Knight - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMjVjZTY0MWUtZGE3Ny00MWQ2LWE4N2QtMDkyYzI1NTc1M2YxXkEyXkFqcGdeQXVyNjgyMjM1NTc@._V1_SX300.jpg
+393-Título: Batman: Knightfall - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BZTQwNmY4MmEtYjNhZi00MzJjLTgxNGItNmQyNmI0YzQ4NWNhXkEyXkFqcGdeQXVyMTIwNjUyOTA3._V1_SX300.jpg
+394-Título: Hell Yeah Batman - Ano Lançamento: 2015 - Capa: N/A
+395-Título: Batman Remembers - Ano Lançamento: 2017 - Capa: N/A
+396-Título: What If I Killed Batman? - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNjhhOGY2ODItYWIyOC00N2JkLWEzM2YtYWIzOGNmMzdlODYzXkEyXkFqcGdeQXVyMzU4MzY2NDg@._V1_SX300.jpg
+397-Título: What if Batman? - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMmE1MDBlODYtNzdmMS00ZTRmLWI3N2UtOTgyN2NlOTEyMGYxXkEyXkFqcGdeQXVyODk0MjY2MTc@._V1_SX300.jpg
+398-Título: Batman: Under the Dark - Ano Lançamento: 2020– - Capa: https://m.media-amazon.com/images/M/MV5BNmUxM2Q4Y2ItOGU4OS00YmExLWJkZTctYTAzMjBmOGFjOTgwXkEyXkFqcGdeQXVyMTI1NjYyNzE3._V1_SX300.jpg
+399-Título: Lego batman-the zombie riddler - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BYmRlYjdlZTYtYWNlZC00NGE0LWJjMjQtYWFjNDVlYTk0NTc0XkEyXkFqcGdeQXVyMTI1MTY5MDAx._V1_SX300.jpg
+400-Título: What the Hell Happened in the Writer's Room: Batman Returns - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BMzc5ODEyZmQtOTQ5Zi00YjRjLTg5NzAtZGZiNTdhOTY1MThlXkEyXkFqcGdeQXVyNjkxNDYxODY@._V1_SX300.jpg
+401-Título: Batman: Aftermath - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BNmJmYWU3YzAtY2ZmMS00MzU5LWI3ZDMtNGY1MjEwMWU3MTBmXkEyXkFqcGdeQXVyODgwOTAwMTU@._V1_SX300.jpg
+402-Título: Untitled Batman: Reboot - Ano Lançamento: 2022 - Capa: N/A
+403-Título: Batman: Choose Your Mission - Ano Lançamento: 2020 - Capa: N/A
+404-Título: Nostalgic Tomorrow: A Batman Gathering - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BNzE4OTNhMTYtNTgwOC00MzE4LTgxMTYtODBiZDI0YzdjNzhhXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+405-Título: The Darkest Knight (A Batman Musical) - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BN2ZmY2U3OGItMTJhZi00MzIwLTk5YTYtMWMwOGE5OTBmOWY5XkEyXkFqcGdeQXVyMzMzMDMzMjQ@._V1_SX300.jpg
+406-Título: Batman: A Beautiful Lie - Ano Lançamento: 2022 - Capa: N/A
+407-Título: Stay 'Tooned! Presents - Batman: The Animated Series - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMTA2NzQyYmMtYzE0OS00MjMyLTkxMzQtMDc3MjYzN2NkYThkXkEyXkFqcGdeQXVyMTg1NTMwOQ@@._V1_SX300.jpg
+408-Título: Batman V. Superman: Dawn of Justice (2016) - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BZGMyMmFmMWQtNWYwNy00YzQxLWE5ZDUtZTJhMTBmMTUxM2JlXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_SX300.jpg
+409-Título: Batman: Lockdown - Ano Lançamento: 2020 - Capa: N/A
+410-Título: Batman Other Worlds - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMDI3MDA2MDUtNzc4OS00NjIyLWI5ZjctMzE2MjM2MGFkOTMxXkEyXkFqcGdeQXVyMjI1MTU4OTM@._V1_SX300.jpg
+411-Título: Batman now (Fan film) - Ano Lançamento: 2017 - Capa: N/A
+412-Título: Batman: Heart of Ice - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BODc5YWU2MzUtZGFkNS00MWRiLTg2OTYtOThiZTJmNTQzNWEwXkEyXkFqcGdeQXVyMTAwOTU0ODgz._V1_SX300.jpg
+413-Título: The Batman - Ano Lançamento: 2022– - Capa: https://m.media-amazon.com/images/M/MV5BOTNlZjc1MTUtNWEzYi00YTkwLTgxNGItNmVlOTI1YTNhMzViXkEyXkFqcGdeQXVyMTI3NDUwMzg5._V1_SX300.jpg
+414-Título: Batman: Taking Flight - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BYTUxZWM4ZmEtMmM3ZS00N2ZhLWIwZWUtZGVjNTE2MTNmODIxXkEyXkFqcGdeQXVyMjkxNjk4NDU@._V1_SX300.jpg
+415-Título: Batman VS the Joker - Ano Lançamento: 2023 - Capa: https://m.media-amazon.com/images/M/MV5BNGRkNTVkNDAtNTI4Mi00ZmEzLWFjMTQtYmJhNzI1OTQxNjllXkEyXkFqcGdeQXVyNzc2MjU5MzA@._V1_SX300.jpg
+416-Título: Batman beyond the movie - Ano Lançamento: 2023 - Capa: N/A
+417-Título: Batman: Darkness of Day - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BMmE1MDliYmMtYWRhOC00MGI3LTkyMTItYWZlOGI4NWRiNjY5XkEyXkFqcGdeQXVyMTUwMTQyMDA2._V1_SX300.jpg
+418-Título: Batman City of Heros - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMjBkNTM3MDItNmMxMy00YTFjLTg2OWEtYmY3ZTNhNTg3MzM1XkEyXkFqcGdeQXVyOTM0NzUzMDE@._V1_SX300.jpg
+419-Título: The Batman 2 - Ano Lançamento: 2025 - Capa: N/A
+420-Título: The Batman (2022) - Ano Lançamento: 2022 - Capa: N/A
+421-Título: The Batman (2022) - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BYmYyZmZlZWUtZDIyMi00ZWM4LTk4NmUtNWNiY2JkYzU1MGY0XkEyXkFqcGdeQXVyMTIxMzgxMTE1._V1_SX300.jpg
+422-Título: Batman: The Series - Ano Lançamento: 2023– - Capa: https://m.media-amazon.com/images/M/MV5BMzEyY2VjOGYtNDc2Mi00YTA1LWI4Y2EtYjg5MDBlYWIwMWJkXkEyXkFqcGdeQXVyMTQ3MzQ2NDgy._V1_SX300.jpg
+423-Título: Batman: Raw Groove - Ano Lançamento: 2021 - Capa: N/A
+424-Título: Batman: Caped Crusader - Ano Lançamento: 2023– - Capa: https://m.media-amazon.com/images/M/MV5BNzM5MjBmZmYtMGVkNS00NzIxLTgzNDgtYjMwZmRkNzdhZGM3XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+425-Título: The Death of Batman - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BMTY4NjM0NTAtM2RlYy00OWFjLWE2YjYtZGNjOWQxNjgzODliXkEyXkFqcGdeQXVyNDg5NDY5NTA@._V1_SX300.jpg
+426-Título: Superman: Agent of Batman - Ano Lançamento: 2020 - Capa: N/A
+427-Título: Batman Unburied - Ano Lançamento: 2021– - Capa: N/A
+428-Título: Lego batman - Ano Lançamento: 2020– - Capa: N/A
+429-Título: Batman: The Audio Adventures - Ano Lançamento: 2021– - Capa: N/A
+430-Título: Merry Little Batman - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BNjc5ZjE4NmUtZTM5Yy00ZDFjLTgwYTUtYTc3NWNmZWRmMWFkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg
+431-Título: Batman: The Case of the Laughing Death - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BYzZlZDZiMDUtOTMyNy00OWU0LTgxOTgtYjY5OGJmMzhiMGQwXkEyXkFqcGdeQXVyMTc1NTkwNjk@._V1_SX300.jpg
+432-Título: The Oath: A Batman Fan Film - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BYjNiOWQ0MmQtYmY1Ni00NzZkLWIxZjUtYTk2OTY4NDA2OTNlXkEyXkFqcGdeQXVyMTAzNjYzMjcy._V1_SX300.jpg
+433-Título: Untitled the Batman Spinoff - Ano Lançamento: 2023– - Capa: N/A
+434-Título: Batman Forever (1995) Part One with AJ Detisch - Tommy Lee Jonesin' for the '90s - Ano Lançamento: 1995 - Capa: N/A
+435-Título: Batman Forever (1995) Part Two with AJ Detisch - Tommy Lee Jonesin' for the '90s - Ano Lançamento: 1995 - Capa: N/A
+436-Título: Batman! Night of the Knight - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNWY5MDBjYTctMTAwZS00NTg3LWFjYjItYjNjYmZkMThmN2E1XkEyXkFqcGdeQXVyMTM5NDY3MjU4._V1_SX300.jpg
+437-Título: Batman back to Dawn - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BZDJlNTY3NGUtYjc5Ny00MDk5LTg0NTMtMDYxMDA5NTQ2OGIwXkEyXkFqcGdeQXVyMTM5NDkxOTc1._V1_SX300.jpg
+438-Título: JDR Batman Gotham City Chronicles - Ano Lançamento: 2021– - Capa: N/A
+439-Título: Building with Batman - Ano Lançamento: 2020– - Capa: N/A
+440-Título: Sooperfilms' the Batman - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BOTczMjgyYTEtZmUwZi00NDUwLThiNGQtYWQyMzY3YTNkMGY3XkEyXkFqcGdeQXVyMTA3OTkxNjQy._V1_SX300.jpg
+441-Título: Batman (1989) - Ano Lançamento: 1989 - Capa: N/A
+442-Título: Batman Forever (1995) - Ano Lançamento: 1995 - Capa: N/A
+443-Título: Batman & Robin (1997) - Ano Lançamento: 1997 - Capa: N/A
+444-Título: I'm Batman (The Truth About Bats) - Ano Lançamento: 2014 - Capa: N/A
+445-Título: Batman: The Fan Series - Ano Lançamento: 2020– - Capa: https://m.media-amazon.com/images/M/MV5BZjJkY2RhM2MtZDQ3Ni00YTViLTg1ZDctZDMyNDJkYzYzNmVlXkEyXkFqcGdeQXVyNTU5MjczNg@@._V1_SX300.jpg
+446-Título: Batman: The Killing Joke - Ano Lançamento: 2024 - Capa: https://m.media-amazon.com/images/M/MV5BNWY0M2IyNTQtYmY2Zi00NDk3LWFlMDktZTIwMmFkMjRmZTkwXkEyXkFqcGdeQXVyMzUwMTE1NzE@._V1_SX300.jpg
+447-Título: Transformação Do Batman - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BZTM4OWY3NjEtM2I0OS00OGI1LWFiYmUtYjFkMWM2OWNkYjQ4XkEyXkFqcGdeQXVyNTAzMjA2MDQ@._V1_SX300.jpg
+448-Título: LEGO Batman: Brick by Brick Featurette - Ano Lançamento: 2017 - Capa: N/A
+449-Título: Batman Begins (2005) - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNzkyZTAzZjktMWVmMC00Yzg0LWIxZWYtNWRjMTljM2I3MjE2XkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg
+450-Título: Batman: Wayne Family Adventures - Ano Lançamento: 2022– - Capa: https://m.media-amazon.com/images/M/MV5BMzE0MzhlZDEtODg5ZC00ZDVhLWJlNzktMzY0NGJiMzU3YTU1XkEyXkFqcGdeQXVyMzc1MDQyNTM@._V1_SX300.jpg
+451-Título: Wonder Woman vs the Batman - Ano Lançamento: 2022 - Capa: N/A
+452-Título: The Batman (2022) - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BYWU0Y2Q0ZmUtMjhiZS00NDljLWIwOWMtZjJkNWQ1MjEyODcwXkEyXkFqcGdeQXVyNTMxMTQ1NTk@._V1_SX300.jpg
+453-Título: The Batman (2022) - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BNWY2NjRiYWEtMjhkMS00NjhkLTk2NTQtOWYzMGU4M2ExMmUzXkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg
+454-Título: Batman Forever Heroes: Batman - Ano Lançamento: 2005 - Capa: N/A
+455-Título: Henry Cavill Asks Kids: Batman or Superman? - Ano Lançamento: 2016 - Capa: N/A
+456-Título: Jesse Eisenberg Asks Fans: Batman or Superman? - Ano Lançamento: 2016 - Capa: N/A
+457-Título: Batman Goes to School - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BZmM5YThkMmMtY2ZjYS00YjhlLTg2ZWItYTRlNGE4ZDJkNDE3XkEyXkFqcGdeQXVyNjAwOTY3ODg@._V1_SX300.jpg
+458-Título: Batman Beyond - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BZGI0YmNmNTQtNjc1NS00Yzk3LWJkMDItZmY0ZjJiZTRmMmY0XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_SX300.jpg
+459-Título: Batman: The Darkest Night - Ano Lançamento: 2018– - Capa: https://m.media-amazon.com/images/M/MV5BZmY1MDA1MWQtOGE4MS00N2FkLThjZjYtMGUwYTllNWE2ZDBmXkEyXkFqcGdeQXVyNjMxNDI4OTM@._V1_SX300.jpg
+460-Título: Batman: Arkham VR - Ano Lançamento: 2016 - Capa: N/A
+461-Título: Batman - Ano Lançamento: 2016 - Capa: N/A
+462-Título: Batman Unveiled - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BMGMyYTg4MjQtYmU4Ny00ZmZmLWJkMjktNzljYTVhOTkxMGE3XkEyXkFqcGdeQXVyNjUzNDk2Mzk@._V1_SX300.jpg
+463-Título: Batman: Return to Arkham - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BYmZmNWM0NjgtODc1OC00OTViLWE0N2EtOTIyNjc2MTdhYTE2XkEyXkFqcGdeQXVyNjUzNDk2Mzk@._V1_SX300.jpg
+464-Título: Batman: Where is he Now? - Ano Lançamento: 2016 - Capa: N/A
+465-Título: Lego Batman: Riddler Returns - Ano Lançamento: 2010 - Capa: N/A
+466-Título: The Adventures of Batman & Robin Cartoon Maker - Ano Lançamento: 1995 - Capa: N/A
+467-Título: Moody Batman - Ano Lançamento: 2015 - Capa: N/A
+468-Título: Building Batman - Ano Lançamento: 2013 - Capa: N/A
+469-Título: Comment embrasser une fille avec trois questions? Batman dating tips - Ano Lançamento: 2015 - Capa: N/A
+470-Título: Batman: Cape & Cowl - Ano Lançamento: 2014– - Capa: N/A
+471-Título: Batman Beyond: Night of the Pickpocket - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BYzg0ZWVmZGQtZTZjNS00N2JhLTk2MWUtOTMyNmNmOTk0MDgyXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+472-Título: [Bootleg] Batman: Vickie Valle - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMTc1MTk4MDY2Nl5BMl5BanBnXkFtZTgwMzg4NjE2NDE@._V1_SX300.jpg
+473-Título: Batman: The Dark Knight Beyond - Ano Lançamento: 2016 - Capa: N/A
+474-Título: Beyond Batman: Frozen Freaks and Femme Fatales - The Makeup of 'Batman & Robin' - Ano Lançamento: 2005 - Capa: N/A
+475-Título: The Adventures of Batman & Robin - Ano Lançamento: 1995 - Capa: N/A
+476-Título: Beyond Batman: Imaging Forever: The Visual Effects of 'Batman Forever' - Ano Lançamento: 2005 - Capa: N/A
+477-Título: Beyond Batman: Scoring Forever - The Music of 'Batman Forever' - Ano Lançamento: 2005 - Capa: N/A
+478-Título: Batman vs. Robin: Talon of the Owls - Ano Lançamento: 2015 - Capa: N/A
+479-Título: Na Na Na Batman - Ano Lançamento: 2014 - Capa: N/A
+480-Título: Batman: Fallen Son - Ano Lançamento: 2015 - Capa: N/A
+481-Título: Batman: Personal Issues - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMTliZjM3ZTktZmYxMC00NmZiLTlmNjItZTQwNTU4MzlmNTUzXkEyXkFqcGdeQXVyNzM1MDY2OTI@._V1_SX300.jpg
+482-Título: Skyfest 2015: Batman vs Superman - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMzE5ODEyMjEzMl5BMl5BanBnXkFtZTgwNzc4MDA3NzE@._V1_SX300.jpg
+483-Título: Batman: The Hunt for Red Hood - Ano Lançamento: 2016– - Capa: N/A
+484-Título: Batman Beyond: The Beginning - Ano Lançamento: 2017 - Capa: N/A
+485-Título: Batman: The Puzzle Master - Ano Lançamento: 2015 - Capa: N/A
+486-Título: Batman Infinite - Ano Lançamento: 2016 - Capa: N/A
+487-Título: Sassy Batman - Ano Lançamento: 2014– - Capa: N/A
+488-Título: Batman Retires - Ano Lançamento: 2014 - Capa: N/A
+489-Título: Batman: Battle for the Cowl - Ano Lançamento: 2015 - Capa: N/A
+490-Título: The Batman: Season 3 Unmasked - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BMTIxNDg5MzMyMl5BMl5BanBnXkFtZTcwNDQwMDI0MQ@@._V1_SX300.jpg
+491-Título: Untitled Batman Spin-off Series - Ano Lançamento: 2017– - Capa: https://m.media-amazon.com/images/M/MV5BMjM2MjczNTU1NV5BMl5BanBnXkFtZTgwNjEzNTQ3NzE@._V1_SX300.jpg
+492-Título: The Batman: Season 4 Unmasked - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BMTU0MDY5MDg0M15BMl5BanBnXkFtZTcwNTU2NzE1MQ@@._V1_SX300.jpg
+493-Título: The Original Batman - Ano Lançamento: 2014– - Capa: N/A
+494-Título: Batman and Jimbo - Ano Lançamento: 2015 - Capa: N/A
+495-Título: Batman is a Vampire - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BOTkzYjRlMzktYmVlMC00OGY1LTg1MTEtNjE0YWY2YzQ5YWI1XkEyXkFqcGdeQXVyNDk1MTQ1Mg@@._V1_SX300.jpg
+496-Título: Indecisive Batman - Ano Lançamento: 2014 - Capa: N/A
+497-Título: Batman: A Face a Laugh and a Crow - Ano Lançamento: 2006 - Capa: N/A
+498-Título: Bizim Batman - Ano Lançamento: 2015 - Capa: N/A
+499-Título: Batman: The Final Battle - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BNTE5YWMyMzEtMTJiMC00MWQ5LTgyNjctNWM1ZmVlMDJiNDFiXkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg
+500-Título: The Evolution of Batman in Cinema - Ano Lançamento: 2015 - Capa: N/A
+501-Título: Batman: Retribution - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMzY0NWMxOGQtZjRjYy00NDUyLTk4NWYtNTQ1MjA1NDY1YTc4XkEyXkFqcGdeQXVyMzUwMDIzMDQ@._V1_SX300.jpg
+502-Título: Holy Board Meeting Batman! - Ano Lançamento: 2014 - Capa: N/A
+503-Título: Batman Reboots - Ano Lançamento: 2010 - Capa: N/A
+504-Título: Batman: Arkham City Lockdown - Ano Lançamento: 2011 - Capa: N/A
+505-Título: Batman: Hidden Affairs - Ano Lançamento: 2015 - Capa: N/A
+506-Título: Batman: Mini-Figure - Ano Lançamento: 2014 - Capa: N/A
+507-Título: An Interview with Batman - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BZmQ2ODViMWItYWQyMS00N2MwLTg5NWEtYzgyOThjMTg5MjVhXkEyXkFqcGdeQXVyNzU4MjAyMTY@._V1_SX300.jpg
+508-Título: Iron Man vs Batman - Ano Lançamento: 2010 - Capa: N/A
+509-Título: The Batman Auditions - Ano Lançamento: 2014 - Capa: N/A
+510-Título: Chicano Batman en el Retrovisor - Ano Lançamento: 2013 - Capa: N/A
+511-Título: Batman Monsters - Ano Lançamento: 2012 - Capa: N/A
+512-Título: Batman 20 Years On - Ano Lançamento: 2009 - Capa: N/A
+513-Título: Batman: Chaos in Gotham City - Ano Lançamento: 2012 - Capa: N/A
+514-Título: Batman Returns: Rob Burman on Mold Making and Costumes - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMDFkOTU4NmEtNTM5ZC00ZTRlLWJmNjItNjY3NzY0MmJjNzM5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg
+515-Título: Batman: The Enemy Within - Ano Lançamento: 1995 - Capa: N/A
+516-Título: Batman Consquences - Ano Lançamento: 2011 - Capa: N/A
+517-Título: Batman Consequences: Ending with the Premiere - Ano Lançamento: 2011 - Capa: N/A
+518-Título: Batman- Out of Character - Ano Lançamento: 2011 - Capa: N/A
+519-Título: Tomorrow Knight: Batman Reborn - Ano Lançamento: 2010 - Capa: N/A
+520-Título: Batman: The Line - Ano Lançamento: 2011 - Capa: N/A
+521-Título: Goldentusk's Batman Theme Song - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BZDQ1MDBmZWUtMzExYy00MDFkLTk4MjMtMTQxZjgxZDc0N2Q1XkEyXkFqcGdeQXVyMzEzMzc3NA@@._V1_SX300.jpg
+522-Título: Batman of Suburbia - Ano Lançamento: 2010 - Capa: N/A
+523-Título: El día que conocí a Batman - Ano Lançamento: 2009 - Capa: N/A
+1-Título: Titanic - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg
+2-Título: Titanic II - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BMTMxMjQ1MjA5Ml5BMl5BanBnXkFtZTcwNjIzNjg1Mw@@._V1_SX300.jpg
+3-Título: Titanic: The Legend Goes On... - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BMTg5MjcxODAwMV5BMl5BanBnXkFtZTcwMTk4OTMwMg@@._V1_SX300.jpg
+4-Título: Titanic - Ano Lançamento: 1953 - Capa: https://m.media-amazon.com/images/M/MV5BMTU3NTUyMTc3Nl5BMl5BanBnXkFtZTgwOTA2MDE3MTE@._V1_SX300.jpg
+5-Título: Raise the Titanic - Ano Lançamento: 1980 - Capa: https://m.media-amazon.com/images/M/MV5BNTQyZGI0NDgtYTM0ZC00NTdkLTk2OTItYTgwYmYwNjZlNDRlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg
+6-Título: Titanic - Ano Lançamento: 1996 - Capa: https://m.media-amazon.com/images/M/MV5BMTBhMjUzMDItYTBlZS00OThkLWJmZDQtMjg1YTQ5ZDkxYmFjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg
+7-Título: La leggenda del Titanic - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BMjMxNDU5MTk1MV5BMl5BanBnXkFtZTgwMDk5NDUyMTE@._V1_SX300.jpg
+8-Título: Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTA4MjIyZWEtZjYwMS00ZmQ1LWJiMDEtMWNiNTI5NWE3OGJjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg
+9-Título: Titanic: Blood and Steel - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMjI2MzU2NzEzN15BMl5BanBnXkFtZTcwMzI5NTU3Nw@@._V1_SX300.jpg
+10-Título: Titanic 666 - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BM2MyYjI2MWMtNDVkZi00Mjk0LTk3MTctYTM4ZWU2NjkxMjU3XkEyXkFqcGdeQXVyNjE0MTY2NjY@._V1_SX300.jpg
+11-Título: In Search of the Titanic - Ano Lançamento: 2004 - Capa: https://m.media-amazon.com/images/M/MV5BNTYyM2FkZmYtZGEwMS00NDMwLWFhYTMtMDU4NzVhYzVmMDYyXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg
+12-Título: Titanic - Ano Lançamento: 1943 - Capa: https://m.media-amazon.com/images/M/MV5BNDk4Yzc2MmItMDVhMy00Yjg1LTliNmYtOTUzZDg0ZDMyZDhhXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg
+13-Título: The Chambermaid on the Titanic - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMWUzYjgyNDEtNTAyMi00M2JjLTlhMzMtMDJmOGM1ZmYzNzY4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg
+14-Título: S.O.S. Titanic - Ano Lançamento: 1979 - Capa: https://m.media-amazon.com/images/M/MV5BZDdkYjQ1YTgtYjQ0My00ZWQwLTgyZjktNDI4NzkzOTg5NTdlXkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_SX300.jpg
+15-Título: The Blind Man Who Did Not Want to See Titanic - Ano Lançamento: 2021 - Capa: https://m.media-amazon.com/images/M/MV5BZDFhMWMwYjQtMmM3ZS00MjJkLWI1MDYtMTQ1OTE4YzJiNTE4XkEyXkFqcGdeQXVyMTIxMTAzNzU4._V1_SX300.jpg
+16-Título: Titanic: 20 Years Later with James Cameron - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNzAxZjhhYTQtNjQzZC00MWQ0LWIwOTUtYmZjODliYThhZTczXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg
+17-Título: Titanic: The Final Word with James Cameron - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BYWFmNWQ0YWYtMTA5MC00MmYzLTlmYzEtMGViM2IzNDVhZWIwXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg
+18-Título: Titanic Review - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BM2IwMmZjZDAtYzRkMy00Y2ZjLWExMWItZThiNjI1NjcyMzQxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg3MDM4Mzc@._V1_SX300.jpg
+19-Título: Saving the Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMjI5MTczNjEzNV5BMl5BanBnXkFtZTgwMzk0NjAxMzE@._V1_SX300.jpg
+20-Título: Titanic Town - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BYmYyNzg4NTItYjljNi00NmYzLTg4MWItZTJkYjZhZjQyZDU1XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg
+21-Título: Titanic Waltz - Ano Lançamento: 1965 - Capa: https://m.media-amazon.com/images/M/MV5BZTkyMDU4ODEtZmI1ZC00MDY3LTk4OTUtYzU1NjNkZWU2YmUzXkEyXkFqcGdeQXVyNDgxMDU4NTU@._V1_SX300.jpg
+22-Título: Drain the Titanic - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BYjU2ODMyOGQtODA2Yy00N2YwLWJkOTYtOTEwMjVjYmU4ZmNhXkEyXkFqcGdeQXVyMjgyMDk1MzY@._V1_SX300.jpg
+23-Título: Back to the Titanic - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BNzQ5YTJmNzUtYzVmYS00NjRmLTg4YzUtNWQyMjk4NDdhNDdjXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_SX300.jpg
+24-Título: Titanic: Adventure Out of Time - Ano Lançamento: 1996 - Capa: https://m.media-amazon.com/images/M/MV5BY2JmOTViYzMtOTdkOS00YzkxLTljOGMtNjczMzAyM2NjOWRhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg
+25-Título: National Geographic Video: Secrets of the Titanic - Ano Lançamento: 1987 - Capa: https://m.media-amazon.com/images/M/MV5BMTQwMzU5NzkzNl5BMl5BanBnXkFtZTYwNDE5Mzg4._V1_SX300.jpg
+26-Título: Buffet Titanic - Ano Lançamento: 1980 - Capa: https://m.media-amazon.com/images/M/MV5BN2NmMTExOTUtNzY3Zi00OTA4LTllZTItOTg5ZDIxNjZjY2U4XkEyXkFqcGdeQXVyMjU0MjU2MjI@._V1_SX300.jpg
+27-Título: Cinematic Titanic: War of the Insects - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BOTQxYzNlNGYtMmY0ZS00ZTE4LTkxNzctNWNlM2ZmNDVkZWRkXkEyXkFqcGdeQXVyODc0MDc3MTU@._V1_SX300.jpg
+28-Título: Cinematic Titanic: The Oozing Skull - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BMTk5MDUwOTk0OV5BMl5BanBnXkFtZTgwMTA1MjA2MDE@._V1_SX300.jpg
+29-Título: Cinematic Titanic: Danger on Tiki Island - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ5OTM4NzYyNV5BMl5BanBnXkFtZTgwODk5MzY0NDE@._V1_SX300.jpg
+30-Título: Cinematic Titanic: The Alien Factor - Ano Lançamento: 2010 - Capa: https://m.media-amazon.com/images/M/MV5BMjQyMTE5NDg4OF5BMl5BanBnXkFtZTgwNTI5NTc0NDE@._V1_SX300.jpg
+31-Título: Cinematic Titanic: Rattlers - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BODMyNGZiYWYtYmJkMy00Y2FjLWEyYTYtOTgwNDYyNDFhNzc1XkEyXkFqcGdeQXVyNDY4OTMxODg@._V1_SX300.jpg
+32-Título: Titanic: Death of a Dream - Ano Lançamento: 1994 - Capa: https://m.media-amazon.com/images/M/MV5BMTc0MzEyNDg0NF5BMl5BanBnXkFtZTcwNTU5MjcyMQ@@._V1_SX300.jpg
+33-Título: Cinematic Titanic: Doomsday Machine - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMTEwOTg5MTk5MDReQTJeQWpwZ15BbWU4MDEyODIwNjAx._V1_SX300.jpg
+34-Título: Cinematic Titanic: Frankenstein's Castle of Freaks - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ1NTg5MTI5MV5BMl5BanBnXkFtZTgwODM5MzA2MDE@._V1_SX300.jpg
+35-Título: The Ten Lives of Titanic the Cat - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BY2NjODU4NGMtYWI5Ny00YjVkLWEzMWMtNDJhNjZhOWFkN2Y5XkEyXkFqcGdeQXVyMjMyNDUzMzI@._V1_SX300.jpg
+36-Título: Cinematic Titanic: Santa Claus Conquers the Martians - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ3MzU4ODEwMF5BMl5BanBnXkFtZTgwNzQwMzA2MDE@._V1_SX300.jpg
+37-Título: Hindenburg: Titanic of the Skies - Ano Lançamento: 2007 - Capa: https://m.media-amazon.com/images/M/MV5BZGJlOWNkZjgtM2Y0YS00M2U2LThlODktMTRjNGEwNDZlMmY1XkEyXkFqcGdeQXVyNjgyNzYwNTc@._V1_SX300.jpg
+38-Título: Le syndrome du Titanic - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMjIzMDAzNDQzN15BMl5BanBnXkFtZTgwNzQwNjAzMTE@._V1_SX300.jpg
+39-Título: Titanic: Birth of a Legend - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNWRmYzliMzktMjMzNC00OGUzLTk3YWMtYjdhMGZhOGY4YmQ0XkEyXkFqcGdeQXVyNjkzNTY3NDI@._V1_SX300.jpg
+40-Título: Last Mysteries of the Titanic - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BNmFjYWMxZjEtZGUyNC00YmI0LTgyY2MtZmZmNjI4MWVjNmIyXkEyXkFqcGdeQXVyNjYxOTA4MTI@._V1_SX300.jpg
+41-Título: Titanic: Breaking New Ground - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BZGJjMDVmZDQtMjU2MC00NzM3LThkYjktOTU0ZmE5YThiODc4XkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_SX300.jpg
+42-Título: Titanic - Ano Lançamento: 1915 - Capa: N/A
+43-Título: Cinematic Titanic: Legacy of Blood - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BMjM2MzA4OTU5OV5BMl5BanBnXkFtZTgwMDEwMzA2MDE@._V1_SX300.jpg
+44-Título: Die Katastrophe der Titanic - Ano Lançamento: 1912 - Capa: https://m.media-amazon.com/images/M/MV5BMGZlZTU0NTAtNmU4ZS00MzA2LTk5OGEtNjM0OGY0MzQyYjFmXkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_SX300.jpg
+45-Título: Cinematic Titanic: The Wasp Woman - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BODUxNTgwNjc4OV5BMl5BanBnXkFtZTgwNjM5MzA2MDE@._V1_SX300.jpg
+46-Título: Cinematic Titanic: Blood of the Vampires - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ3NTY1NTU3MF5BMl5BanBnXkFtZTgwNzM5MzA2MDE@._V1_SX300.jpg
+47-Título: Titanic at 100: Mystery Solved - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTg4MTE2NTE3M15BMl5BanBnXkFtZTgwMDIxNzA2MDE@._V1_SX300.jpg
+48-Título: The Titanic - Ano Lançamento: 1996 - Capa: https://m.media-amazon.com/images/M/MV5BMTYxMzUzNDEzN15BMl5BanBnXkFtZTcwMTE0NTMyMQ@@._V1_SX300.jpg
+49-Título: Titanic: Sinking the Myths - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZTM2ZTQwNWEtNTIzMC00ZDI1LTkwNDYtMWJhMjg3YmNjM2VjXkEyXkFqcGdeQXVyMjE5NDM1MDM@._V1_SX300.jpg
+50-Título: Titanic: The Aftermath - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BY2FkM2U2NTAtMTU1YS00Y2VmLWIxM2ItN2RlNmFiNDNhYWFkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+51-Título: Beyond Titanic - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BZGFhNzQ4YzYtMjQ4Ny00MmZhLTg5YjktOTNjYjg5NDhjZWM1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg
+52-Título: Titanic II - Ano Lançamento: 2002 - Capa: N/A
+53-Título: Titanic: Anatomy of a Disaster - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BNjZlNjdkNDgtNjUxMC00OTY0LTgzOGUtYTNlNTA1Yzk2NWJjXkEyXkFqcGdeQXVyMzQzMzc4MzQ@._V1_SX300.jpg
+54-Título: Explorers: From the Titanic to the Moon - Ano Lançamento: 2006 - Capa: https://m.media-amazon.com/images/M/MV5BMTEwMTAyMzAyODVeQTJeQWpwZ15BbWU4MDMwMjQ3ODIx._V1_SX300.jpg
+55-Título: The Titanic Chronicles - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BMjA2NDg3MjQyN15BMl5BanBnXkFtZTcwMTU0MTkyMQ@@._V1_SX300.jpg
+56-Título: Saved from the Titanic - Ano Lançamento: 1912 - Capa: https://m.media-amazon.com/images/M/MV5BNjkwNmYyYjQtMGJmNi00YWFiLWEyYzYtYjMzZjIwYTk2ODI2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_SX300.jpg
+57-Título: Nazi Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMzE1MDQxODM0Ml5BMl5BanBnXkFtZTgwOTUzNzA2MDE@._V1_SX300.jpg
+58-Título: Cinematic Titanic: East Meets Watts - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BMTUwMjcxMDUyM15BMl5BanBnXkFtZTgwODQ2NzU0NDE@._V1_SX300.jpg
+59-Título: El Hormiguero: Vacaciones en el Titanic - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMWQ2ZjMzYTQtOTgzOS00ZDYzLTgzOTAtMGNhMGZmYjFiOGFmXkEyXkFqcGdeQXVyNzEzMDUxODk@._V1_SX300.jpg
+60-Título: Titanic 2 - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BY2ExZTI1MzMtY2MwOC00ZTI1LTlkYTktZTUwOWQ1M2RlMGQ4XkEyXkFqcGdeQXVyMzk5MDc1OTM@._V1_SX300.jpg
+61-Título: Mysteries from the Grave: Titanic - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BOWRhNjNmNzgtMWQ0MC00MWZhLWI3ODAtOGZjNzJjMmVmMDM3XkEyXkFqcGdeQXVyMTMzNzE3MTg0._V1_SX300.jpg
+62-Título: Titanic Adventure - Ano Lançamento: 2005 - Capa: N/A
+63-Título: Starship Titanic - Ano Lançamento: 1998 - Capa: N/A
+64-Título: Save the Titanic with Bob Ballard - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTY5ODY5NjQxNV5BMl5BanBnXkFtZTgwMzQwNzA2MDE@._V1_SX300.jpg
+65-Título: The Unsinkable Titanic - Ano Lançamento: 2008 - Capa: https://m.media-amazon.com/images/M/MV5BNDQzZWExNDMtZjFlMC00Yzc5LWI0YWItYzNmZWMzYzQyOGEzXkEyXkFqcGdeQXVyMTY2NTEyMTY@._V1_SX300.jpg
+66-Título: Save Our Souls: The Titanic Inquiry - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BNjEyZThhYWItMjczYS00NjgxLWI3ZTgtMzBlOTRhZTE4MGYwXkEyXkFqcGdeQXVyNTQ4NjA1OTg@._V1_SX300.jpg
+67-Título: 10 Mistakes that Sank the Titanic - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BMTJkMmIxMjEtZWEwNC00ODhhLWJmZjQtMTgxMzVkOTE3MWUzXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg
+68-Título: Reflections on Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMDJmMThiYzAtYjc2ZS00ZDRlLTkzMGQtOGU5ODAzMDZlODMyXkEyXkFqcGdeQXVyMjQ5NjgwMjA@._V1_SX300.jpg
+69-Título: Why They Sank the Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BYjRiY2Y2NmItM2ZhMy00ZDU5LTg1MWQtMTk1MDRkZDI5ZjNlXkEyXkFqcGdeQXVyNjkxNTc4NjQ@._V1_SX300.jpg
+70-Título: Titanic: How It Really Sank - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BODU0NTMzOTQyNl5BMl5BanBnXkFtZTgwMzM4NjA2MDE@._V1_SX300.jpg
+71-Título: Titanic: Secrets Revealed - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BMTI3NTIzNjY4Nl5BMl5BanBnXkFtZTcwMjE0ODUyMQ@@._V1_SX300.jpg
+72-Título: Titanic: Stories from the Deep - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BNmYzNWZmYjYtMDgyYS00YWM5LTk2ODktMDJlODlhN2YwMjQxXkEyXkFqcGdeQXVyMjEzNDI5OTA@._V1_SX300.jpg
+73-Título: Titanic: 100 Years in - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BNDJhZTk2OGItNDczOS00NDdjLTlhMDUtNmI5MjMxZDE0NTc5XkEyXkFqcGdeQXVyODI0OTI1NDM@._V1_SX300.jpg
+74-Título: Titanic: 100 Years On - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ2MjE2NDU4NF5BMl5BanBnXkFtZTgwNjM1NjA2MDE@._V1_SX300.jpg
+75-Título: Castanha e Caju Contra o Encouraçado Titanic - Ano Lançamento: 2002 - Capa: https://m.media-amazon.com/images/M/MV5BNzc2ZmVhZDItNjQyOS00ZGE0LTk2NzItNjU0M2U4YTA2ZDRmXkEyXkFqcGdeQXVyMjMyNDc2NDQ@._V1_SX300.jpg
+76-Título: Titanic with Len Goodman - Ano Lançamento: 2012– - Capa: N/A
+77-Título: Inside the Titanic - Ano Lançamento: 2012 - Capa: N/A
+78-Título: Titanic - Ano Lançamento: 1984 - Capa: https://m.media-amazon.com/images/M/MV5BOTMyMDk2NzA2OV5BMl5BanBnXkFtZTcwMjYwOTQyMQ@@._V1_SX300.jpg
+79-Título: Search for the Titanic - Ano Lançamento: 1981 - Capa: https://m.media-amazon.com/images/M/MV5BZTZkODQyOWYtYmEzYS00MGE0LThkOGItMWMyMmQ1NmI3YjI0XkEyXkFqcGdeQXVyNzcyMTMyNzA@._V1_SX300.jpg
+80-Título: Titanic: The True Story - Ano Lançamento: 2001 - Capa: N/A
+81-Título: Deep Inside the Titanic - Ano Lançamento: 1999 - Capa: N/A
+82-Título: Titanic Explorer - Ano Lançamento: 1998 - Capa: N/A
+83-Título: Titanic: The New Evidence - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BNWViMjE5ZmMtYTU3NS00MjExLTgyODYtMmRlZjkwNGUwOWNmXkEyXkFqcGdeQXVyMjExNTk2Mjk@._V1_SX300.jpg
+84-Título: Titanic - Ano Lançamento: 1993 - Capa: https://m.media-amazon.com/images/M/MV5BMzcxNjc0NjE1MV5BMl5BanBnXkFtZTcwNjU1MzcxMQ@@._V1_SX300.jpg
+85-Título: Rebuilding Titanic - Ano Lançamento: 2011 - Capa: N/A
+86-Título: Titanic: Untold Stories - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BMjE3NjE2NzE0N15BMl5BanBnXkFtZTYwMzU1Nzg4._V1_SX300.jpg
+87-Título: Titanic - Ano Lançamento: 2012 - Capa: N/A
+88-Título: Words of the Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMjQxNTIzNjM5MF5BMl5BanBnXkFtZTgwNDg3Nzc3NTE@._V1_SX300.jpg
+89-Título: Titanic: Answers from the Abyss - Ano Lançamento: 1999 - Capa: https://m.media-amazon.com/images/M/MV5BYmE0ODNlNDktZDI4ZS00M2Y5LTgyZTUtODJkNTJkN2YyZDU4XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg
+90-Título: Titanic - Ano Lançamento: 1989 - Capa: N/A
+91-Título: Titanic: Band of Courage - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMjAxMTUyNzEzM15BMl5BanBnXkFtZTgwNTkyMzY3NDE@._V1_SX300.jpg
+92-Título: Die letzte Nacht der Titanic - Ano Lançamento: 1955 - Capa: https://m.media-amazon.com/images/M/MV5BN2Q4MDdlZWUtNDFjMS00ZTgwLWE4NjktMTU0NTU1Yjg0NGNhXkEyXkFqcGdeQXVyMTQ4Mjc3OTk@._V1_SX300.jpg
+93-Título: Titanic: The Premiere - Ano Lançamento: 2000 - Capa: https://m.media-amazon.com/images/M/MV5BMTg0ODEwMDgwM15BMl5BanBnXkFtZTcwNDM0MDYxMQ@@._V1_SX300.jpg
+94-Título: Titanic: Echoes of Titanic - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BOTk0OTIwNDYtOTdkMy00MTUzLTgyZjgtZjRkMDJjZGJiZmQxXkEyXkFqcGdeQXVyMTM5ODM4NTQ@._V1_SX300.jpg
+95-Título: The Curse of the Titanic Sister Ships - Ano Lançamento: 2005 - Capa: https://m.media-amazon.com/images/M/MV5BMTQ2NjMyMjY5M15BMl5BanBnXkFtZTgwODMxMjAxMzE@._V1_SX300.jpg
+96-Título: Titanic - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BOWUxOTdlOGItMzJmYi00Zjk5LThkYjUtMDIwYWVlOTM4MWE5XkEyXkFqcGdeQXVyMTA4Njk3Mjcw._V1_SX300.jpg
+97-Título: Titanic: Titanic Remembered - Ano Lançamento: 1998 - Capa: N/A
+98-Título: The Making of 'Titanic' - Ano Lançamento: 1999 - Capa: N/A
+99-Título: Titanic: A Question of Murder - Ano Lançamento: 1983 - Capa: https://m.media-amazon.com/images/M/MV5BNjg2Njk0MTAwNF5BMl5BanBnXkFtZTcwNTUyMTYxMQ@@._V1_SX300.jpg
+100-Título: Titanic: The Mystery & the Legacy - Ano Lançamento: 1998 - Capa: N/A
+101-Título: Titanic: End of an Era - Ano Lançamento: 1998 - Capa: N/A
+102-Título: Titanic: The Nightmare and the Dream - Ano Lançamento: 1986 - Capa: N/A
+103-Título: Titanic Survivors - Ano Lançamento: 1998 - Capa: N/A
+104-Título: Letztes Jahr - Titanic - Ano Lançamento: 1991 - Capa: https://m.media-amazon.com/images/M/MV5BMWYxYmIzNzQtZWRlMy00MTM0LTg3ZGUtYzczYjg4YjY0ZmE2XkEyXkFqcGdeQXVyODAyNDE3Mw@@._V1_SX300.jpg
+105-Título: Titanic Revealed - Ano Lançamento: 2004 - Capa: N/A
+106-Título: CR: Titanic - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BMTcwOTgzNjE5Ml5BMl5BanBnXkFtZTcwMTUwNTczNA@@._V1_SX300.jpg
+107-Título: Titanic: The Arabic Version - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BNzM3YmMzYjYtZWVhZi00ZDllLWI3ODMtZWQ5OGY0NmJmYzBhXkEyXkFqcGdeQXVyNzQwMzAwNTI@._V1_SX300.jpg
+108-Título: Titanic Arrogance - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMTU0NDkwMzgwOF5BMl5BanBnXkFtZTgwMDE1MzYwMDI@._V1_SX300.jpg
+109-Título: Tickets for the Titanic - Ano Lançamento: 1987–1988 - Capa: N/A
+110-Título: Titanic in a Tub: The Golden Age of Toy Boats - Ano Lançamento: 1981 - Capa: N/A
+111-Título: Titanic, l'ultime scénario - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BOWY4ZWE2YmItNDY3Zi00YTQ1LWI4M2MtMTQ0ZWVlODIxZDQ3XkEyXkFqcGdeQXVyMTgwMzU4OQ@@._V1_SX300.jpg
+112-Título: Return to the Titanic: Live! - Ano Lançamento: 1987 - Capa: https://m.media-amazon.com/images/M/MV5BMTRhOGM3YmYtODE4My00MmJiLTliMDEtYjdmZDcwNTQ2YzBiXkEyXkFqcGdeQXVyMjA3NDg2Mzg@._V1_SX300.jpg
+113-Título: National Geographic Titanic: The Final Secret - Ano Lançamento: 2008 - Capa: N/A
+114-Título: Titanic: 90 Years Below - Ano Lançamento: 2002 - Capa: N/A
+115-Título: The Lost Film of the Titanic - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BMTY4MjgzMzg3NV5BMl5BanBnXkFtZTcwODQ1ODEyMQ@@._V1_SX300.jpg
+116-Título: Titanic: A Tale of Two Journeys - Ano Lançamento: 2005 - Capa: N/A
+117-Título: Titanic: Treasure of the Deep - Ano Lançamento: 1992 - Capa: https://m.media-amazon.com/images/M/MV5BMjAxMzQyMTMyMV5BMl5BanBnXkFtZTcwNTM3NzUxMQ@@._V1_SX300.jpg
+118-Título: The Titanic Disaster - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BZmJmZjg2OTEtOWM2NC00Njc2LWJmYmMtMTZlYWQ3MmZmNDBiL2ltYWdlXkEyXkFqcGdeQXVyODIxNzIwMw@@._V1_SX300.jpg
+119-Título: Titanic and Me - Ano Lançamento: 2012 - Capa: N/A
+120-Título: Titanic: Ballard's Secret Mission - Ano Lançamento: 2008 - Capa: N/A
+121-Título: Titanic: The History & Maiden Voyage of the Luxury Liner - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZTE1YTUxNzYtNWFkYy00ZjU0LTliZTItNGVlMWQwMmIzZTM0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+122-Título: Titanic: Building the World's Largest Ship - Ano Lançamento: 2022 - Capa: N/A
+123-Título: El hundimiento del Titanic - Ano Lançamento: 2017 - Capa: https://m.media-amazon.com/images/M/MV5BZjA4NzAzYWQtNzg2OS00OWUwLWFjZWMtN2NmMDZkM2MwYmViXkEyXkFqcGdeQXVyNTU2MTU4NTM@._V1_SX300.jpg
+124-Título: Titanic: Deep Dive Presentation - Ano Lançamento: 2005 - Capa: N/A
+125-Título: Titanic Love - Ano Lançamento: 2012 - Capa: N/A
+126-Título: Terror on the Titanic - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMTkxNDY0MzcyNV5BMl5BanBnXkFtZTcwMDU1NjcxMQ@@._V1_SX300.jpg
+127-Título: Titanic Expedition 2: The Discovery - Ano Lançamento: 1998 - Capa: N/A
+128-Título: The Titanic Tragedy - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMTk2NjkyMTA3OV5BMl5BanBnXkFtZTcwNDkyNDcxMQ@@._V1_SX300.jpg
+129-Título: The Unsinkable RMS Titanic - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BMjA4MjEyMDc1OF5BMl5BanBnXkFtZTcwMTI1MzIyMQ@@._V1_SX300.jpg
+130-Título: Cinematic Titanic: The Doll Squad - Ano Lançamento: 2012 - Capa: N/A
+131-Título: Titanic: Conspiracy of Failure - Ano Lançamento: 2020 - Capa: https://m.media-amazon.com/images/M/MV5BM2M5ODNhYjktMGU5Yi00MmYyLWFkZGYtNmQ1NTBmMTkyMjUxXkEyXkFqcGdeQXVyMTE3NDA2ODE4._V1_SX300.jpg
+132-Título: Consider the Titanic - Ano Lançamento: 2020 - Capa: N/A
+133-Título: Titanic: una producción de Cheverísimo - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BNDM2M2RlOTYtZjY5ZS00Y2EzLWI1ZjItYzQ5ODJkNTE1ODZkXkEyXkFqcGdeQXVyMTA3NTQwNzcz._V1_SX300.jpg
+134-Título: The Titanic Channel - Ano Lançamento: 2016– - Capa: https://m.media-amazon.com/images/M/MV5BZTdjOWQ5YzktNzY4ZC00ZDhlLWFlNGItODdlZWMwOWIzY2RiXkEyXkFqcGdeQXVyODE5MzY2MTU@._V1_SX300.jpg
+135-Título: Titanic - skipet som ikkje kunne søkke - Ano Lançamento: 1992 - Capa: N/A
+136-Título: Titanic Parody - Ano Lançamento: 2018 - Capa: N/A
+137-Título: Up there Titanic - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMzIzZTA4NDMtMGJjNC00NWNiLTk1M2YtZjJhNTFiNWZkMmI5XkEyXkFqcGdeQXVyNjkzNTc0NTg@._V1_SX300.jpg
+138-Título: Titanic - The Missing Link - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BOTgwNDA5MWYtN2FmMS00MGE4LThmY2UtNDU5N2ExODc5MjcyXkEyXkFqcGdeQXVyMTY2NTEyMTY@._V1_SX300.jpg
+139-Título: Liverpool's Titanic Girl - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BYTAyNmU4YTQtZmFiMy00ZjZjLTk4OWEtNThlYjA5YThmNjRjXkEyXkFqcGdeQXVyNTQ5NDQwMzY@._V1_SX300.jpg
+140-Título: BBC Bitesize: Titanic - Ano Lançamento: 2018 - Capa: https://m.media-amazon.com/images/M/MV5BYjczNGRjNzgtNjk2YS00ZGM4LWE2YjgtNThlNTExYzU0ZjI3XkEyXkFqcGdeQXVyNDM1MDA3NzU@._V1_SX300.jpg
+141-Título: ISS Titanic - Ano Lançamento: 2019 - Capa: N/A
+142-Título: Sidewinder- Titanic Days - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMjNmNmE4ZWYtZTk2YS00NTRlLTlmZDItY2FjMjUwNGI0M2EwXkEyXkFqcGdeQXVyMTc0NzI2NDc@._V1_SX300.jpg
+143-Título: Titanic World - Ano Lançamento: 2009 - Capa: N/A
+144-Título: Save the Titanic: Treasures from the Deep - Ano Lançamento: 2019 - Capa: https://m.media-amazon.com/images/M/MV5BOTZjYWJiMTUtNzM0ZC00NzA4LWI5MWYtZTdiODgwOWFhOTQ0XkEyXkFqcGdeQXVyMTUzMDQ4OTc@._V1_SX300.jpg
+145-Título: Titanic: Southampton Remembers - Ano Lançamento: 2012 - Capa: N/A
+146-Título: Titanic: Kadhalum Kavunthu Pogum - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BMjZhOWRiODQtYzIzMi00NGMyLTk3M2ItZjYxN2ZjMWE4MTkwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg
+147-Título: Quest-Room: Titanic - Ano Lançamento: 2017 - Capa: N/A
+148-Título: Titanic: The Inconvenient Truth - Ano Lançamento: 2016 - Capa: N/A
+149-Título: Return to the Titanic - Ano Lançamento: 1981 - Capa: https://m.media-amazon.com/images/M/MV5BZDkyMzRiZmEtNDgyMC00YzA0LWIwZTgtOTNkNmVjZTAxNzM1XkEyXkFqcGdeQXVyMjgzMDY5NA@@._V1_SX300.jpg
+150-Título: Titanic - Ano Lançamento: 2012 - Capa: N/A
+151-Título: 1998 Titanic Blockbuster Video Commercial - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BNDU2M2M0MmYtZjdkMC00YTZlLWJhNmUtYzhmMWRmZmUxMGFlXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_SX300.jpg
+152-Título: Curious Minds: Titanic - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BZjg0MDVjY2ItMTA0Yi00YWUyLWFmZGEtNTk4NzgwNzk1NWMwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+153-Título: Dans le sillage du Titanic: l'histoire du CGS Montmagny - Ano Lançamento: 2011 - Capa: https://m.media-amazon.com/images/M/MV5BNDQ4NDZkYTMtYmYwZC00MmEyLWFhZDMtMmI5NGE3MTlmNTFhXkEyXkFqcGdeQXVyNTgxMjc3NzE@._V1_SX300.jpg
+154-Título: Titanic - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMDlhNWRkNGMtYWRhYy00YTI1LWExMDEtNjE4MTI2ZTUxNWYyXkEyXkFqcGdeQXVyNjU4ODYwNDc@._V1_SX300.jpg
+155-Título: Titanic Minds: Reuniting Wolfman and Perez - Ano Lançamento: 2017 - Capa: N/A
+156-Título: Lego Titanic - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BMDBjYjU4YzgtNjUzMC00MDAzLWI0ZTgtMWJiMTM4Y2E3NWFhXkEyXkFqcGdeQXVyNzk4NTExNzA@._V1_SX300.jpg
+157-Título: Pacific: Titanic Satire - Ano Lançamento: 1998 - Capa: N/A
+158-Título: Titanic Requiem - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMDVkZDMxNmItN2NlNS00Nzc5LTkwMjktNjFhY2NmNmIyYjYzXkEyXkFqcGdeQXVyODUxODMwNg@@._V1_SX300.jpg
+159-Título: Operation Titanic - Ano Lançamento: 1945 - Capa: N/A
+160-Título: Titanic Belfast: City of a Thousand Launches - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BMjM4NTc5NzUzOF5BMl5BanBnXkFtZTgwMTU1MzY5MTE@._V1_SX300.jpg
+161-Título: Cold Iron is a Titanic Comedy - Ano Lançamento: 2014 - Capa: https://m.media-amazon.com/images/M/MV5BNzQ4YjA2YWEtMjk0NC00YTQ3LTg2ODYtNzI5MmY3ZGZkMDAyXkEyXkFqcGdeQXVyMjc3ODYxNDE@._V1_SX300.jpg
+162-Título: Titanic: The Investigation Begins - Ano Lançamento: 1996 - Capa: N/A
+163-Título: City of the Dead: Halifax and the Titanic Disaster - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BMTFjZTNkYTUtODg0My00MzI4LTg5NTEtYTY3ZjI4OTg4MGU5XkEyXkFqcGdeQXVyNDMzMTA4OTM@._V1_SX300.jpg
+164-Título: Dive to the Titanic - Ano Lançamento: 2010 - Capa: N/A
+165-Título: Titanic: die einzig wahre Geschichte - Ano Lançamento: 1999 - Capa: N/A
+166-Título: My Titanic Uncle - Ano Lançamento: 2012 - Capa: N/A
+167-Título: Killer Zombies from the Titanic - Ano Lançamento: 2016 - Capa: N/A
+168-Título: Titanic Boy - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BZDQxNWIxZmYtYTNlZi00NTM5LTgyMmQtNjRjNDM3MDQ5OTJhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+169-Título: Titanic: EPK Press Kit - Ano Lançamento: 2005 - Capa: N/A
+170-Título: Titanic Ship's Tour - Ano Lançamento: 2005 - Capa: N/A
+171-Título: Titanic: 1912 Newsreel - Ano Lançamento: 2005 - Capa: N/A
+172-Título: Titanic: Construction Timelapse - Ano Lançamento: 2005 - Capa: N/A
+173-Título: Flight of the Titanic - Ano Lançamento: 2015 - Capa: N/A
+174-Título: Titanic: A Mysterious Undersea Adventure - Ano Lançamento: 1998 - Capa: N/A
+175-Título: Titanic al detalle - Ano Lançamento: 2013 - Capa: https://m.media-amazon.com/images/M/MV5BYjE1YzBmZTYtYmYwMy00NDRkLTgyZDMtMjE0MzBmY2MxMWM0XkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_SX300.jpg
+176-Título: Titanic: The Great Deception - Ano Lançamento: 2012 - Capa: N/A
+177-Título: Titanic Code - Ano Lançamento: 2017 - Capa: N/A
+178-Título: Innen. Bar. Nacht: Untergang Der Titanic - Ano Lançamento: 2015 - Capa: https://m.media-amazon.com/images/M/MV5BZDA4NjU1YTctMGZmMi00MmQzLTgzYmUtY2M4NmZmNjE0ZGFmXkEyXkFqcGdeQXVyMjAxMjIzMTY@._V1_SX300.jpg
+179-Título: Decoding Titanic Conspiracy Theory - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BODliNTFlMjktN2IyMi00YmExLTgwYzItMmRiYmFmMjE5NWE1L2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+180-Título: Children on the Titanic - Ano Lançamento: 2014 - Capa: https://ia.media-imdb.com/images/M/MV5BMjA5NzA2MDcxMl5BMl5BanBnXkFtZTgwMzAzODUwMDI@._V1_SX300.jpg
+181-Título: Titanic: Adrift - Ano Lançamento: 2014 - Capa: N/A
+182-Título: Captain E.J. Smith, R.N.R. Commander of the Ill Fated S.S. Titanic: A Final Inspection of His Vessel Ten Minutes Before Sailing Time - Ano Lançamento: 1912 - Capa: N/A
+183-Título: Titanic: The Canadian Story - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BNDJkMTUwM2ItNmY5OS00MDVkLTllM2QtNGFjYjBjNmIxYjQ2XkEyXkFqcGdeQXVyODg5ODExMjc@._V1_SX300.jpg
+184-Título: Decoding Titanic Mystery - Ano Lançamento: 2016 - Capa: https://m.media-amazon.com/images/M/MV5BMGZkMGNkMDQtNzllMC00ZGQ4LThmZGUtM2YzYTk2NzA5ODU3XkEyXkFqcGdeQXVyNjkyNzY0ODI@._V1_SX300.jpg
+185-Título: The Legend of Titanic - Ano Lançamento: 2002 - Capa: N/A
+186-Título: Titanic: A Legend Born in Belfast - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BMGFlOWI5ZjEtNjAwYS00Y2E5LThhZjQtYTYwZTFmMTE5ZDUxL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+187-Título: Titanic XXX parody - Ano Lançamento: 2022 - Capa: https://m.media-amazon.com/images/M/MV5BYzgyMmQxODEtOGQ5ZS00ZDdiLWI1ZTctMGNlODQwNTg4NmM3XkEyXkFqcGdeQXVyNjc3NTc3NTQ@._V1_SX300.jpg
+188-Título: Titanic: Under the Microscope - Ano Lançamento: 2012 - Capa: https://m.media-amazon.com/images/M/MV5BYzRjMTgzMDctMzVmNC00ODJiLWE0MzUtYTAzZTE0OTI2OThlXkEyXkFqcGdeQXVyMTI3OTMzOTcy._V1_SX300.jpg
+189-Título: Galileo TimeFreeze - Titanic - Ano Lançamento: 2018 - Capa: N/A
+190-Título: Titanic (1997) - March Sadness - Ano Lançamento: 1997 - Capa: https://m.media-amazon.com/images/M/MV5BMDgzZTNhOWUtNGRmZi00Mjg3LTlmMmMtMjkyZjJmMmVmNGIzXkEyXkFqcGdeQXVyNzYzMTgwMw@@._V1_SX300.jpg
+191-Título: Titanic Ocean - Ano Lançamento: 2021 - Capa: N/A
+192-Título: Rifftrax: Titanic - Ano Lançamento: 2009 - Capa: https://m.media-amazon.com/images/M/MV5BZTcwODI0Y2EtZDQ5Zi00NmFkLTkyMDAtZTQ5YzAxYTMzOTJiXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_SX300.jpg
+193-Título: How The Titanic Became My Lifeboat - Ano Lançamento: 2021 - Capa: N/A
+194-Título: RMS Titanic: The Story Biograph Told - Ano Lançamento: 2012 - Capa: N/A
+195-Título: Titanic Girls Volume 1 - Ano Lançamento: 2004 - Capa: N/A
+196-Título: Titanic Girls Volume 2 - Ano Lançamento: 2004 - Capa: N/A
+197-Título: Titanic: The Final Chapter - Ano Lançamento: 1993 - Capa: https://m.media-amazon.com/images/M/MV5BMTk0MjQzMDk2Ml5BMl5BanBnXkFtZTcwNzgxOTIyMQ@@._V1_SX300.jpg
+198-Título: Great Adventures of the Twentieth Century: Titanic - Ano Lançamento: 1996 - Capa: N/A
+199-Título: Titanic 32 - Ano Lançamento: 1999 - Capa: N/A
+200-Título: L'enfonsament del Titanic - Ano Lançamento: 1994 - Capa: https://m.media-amazon.com/images/M/MV5BZmQ5NTM1YjktMzcyMi00YzkzLTliYjEtYjRkNGNmN2VkNWE1XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg
+201-Título: Titanic Live - Ano Lançamento: 1998 - Capa: N/A
+202-Título: Titanic Tits 3 - Ano Lançamento: 1985 - Capa: N/A
+203-Título: The Battle for Titanic - Ano Lançamento: 1999 - Capa: N/A
+204-Título: Titanic Toys - Ano Lançamento: 1993 - Capa: N/A
+205-Título: Act Like Men: A Titanic Lesson in Manliness - Ano Lançamento: 2012 - Capa: N/A
+206-Título: Titanic in 60 Seconds - Ano Lançamento: 2008 - Capa: N/A
+207-Título: Titanic 100 Year Anniversary - Ano Lançamento: 1987– - Capa: https://m.media-amazon.com/images/M/MV5BMjA5MjU3NTg1Ml5BMl5BanBnXkFtZTgwODQ0ODAxMzE@._V1_SX300.jpg
+208-Título: Raising the Titanic - Ano Lançamento: 2012 - Capa: N/A
+209-Título: Titanic Belfast: Birthplace of a Legend - Ano Lançamento: 2012 - Capa: N/A
+210-Título: After the Titanic - Ano Lançamento: 2012 - Capa: N/A
+211-Título: Making of 'Titanic Blood & Steel' - Ano Lançamento: 2012 - Capa: N/A
+212-Título: Cinematic Titanic: Samson and the Seven Miracles of the World - Ano Lançamento: 2009 - Capa: N/A
+213-Título: Cinematic Titanic: The Astral Factor - Ano Lançamento: 2011 - Capa: N/A
+214-Título: Maud Mary & the Titanic - Ano Lançamento: 2012 - Capa: N/A
+215-Título: Titanic Part II - Ano Lançamento: 2013 - Capa: N/A
+216-Título: A Titanic Coincidence! - Ano Lançamento: 2012 - Capa: N/A
+217-Título: Treasures of the Titanic - Ano Lançamento: 1988 - Capa: N/A
+218-Título: La Route: Titanic au delà du naufrage - Ano Lançamento: 1998 - Capa: N/A
+219-Título: Titanic au delà du naufrage - Ano Lançamento: 1998 - Capa: N/A
+220-Título: Titanic au delà du naufrage - Ano Lançamento: 1998 - Capa: N/A
+221-Título: Silent Mobius - Case: Titanic - Ano Lançamento: 1998 - Capa: https://m.media-amazon.com/images/M/MV5BMmM4OWIzMDEtOTFjZS00ZjczLWE2MDctZjFmOTFkYjA3MTk5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg
+222-Título: Lego Titanic - Ano Lançamento: 2010 - Capa: N/A
+223-Título: Heroes of the Titanic - Ano Lançamento: 2000 - Capa: N/A
+224-Título: Untergang der Titanic - Ano Lançamento: 2003 - Capa: N/A
+225-Título: Titanic Girls Volume 3 - Ano Lançamento: 2005 - Capa: N/A
+226-Título: Titanic Confession - Ano Lançamento: 1987 - Capa: N/A
+227-Título: The Titanic of Southampton - Ano Lançamento: 2012 - Capa: N/A
+228-Título: Titanic Canada - Ano Lançamento: 2007 - Capa: N/A
+229-Título: A Titanic Lie - Ano Lançamento: 2010 - Capa: N/A
+230-Título: God Saves the Titanic - Ano Lançamento: 1999 - Capa: N/A
+231-Título: Titànic-92 - Ano Lançamento: 1989 - Capa: https://m.media-amazon.com/images/M/MV5BODA5MjgyZjYtMTEwMS00OTY5LWEwOGYtYzc2MWJhZjJhMDllXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg
+232-Título: Titanic Battle - Ano Lançamento: 2007 - Capa: N/A
+233-Título: Titanic Battle 2 - Ano Lançamento: 2007 - Capa: N/A
+234-Título: Titanic Tussle - Ano Lançamento: 2007 - Capa: N/A
+235-Título: Titanic Tussle 2 - Ano Lançamento: 2007 - Capa: N/A

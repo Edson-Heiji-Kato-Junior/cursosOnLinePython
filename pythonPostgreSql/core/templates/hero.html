@@ -1,0 +1,36 @@
+{% load static %}
+      <div id="hero-area" class="hero-area-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+              <div class="contents">
+                <h2 class="head-title">Framework Django + Python!!!</h2>
+                <p>Módulo 4 - Python com postgresql.</p>
+                <div class="header-button">
+                  <a rel="nofollow" href="https://rebrand.ly/fusion-ud" class="btn btn-common">Saiba mais</a>
+                  <a href="https://www.youtube.com/watch?v=r44RKWyfcFw" class="btn btn-border video-popup">Entre em contato</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+              <div class="intro-img">
+                <img class="img-fluid" src="{% static 'img/intro-mobile.png' %}" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        {% if messages %}
+          {% for m in messages %}
+            <div class="alert alert-{{ m.tags }}">
+              <button type="button" class="close" data-dismiss="alert"></button>
+              <strong>{{ m }} </strong>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </div>
+
+    </header>
+    <!-- Header Area wrapper End -->

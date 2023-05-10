@@ -1,0 +1,26 @@
+Details
+Maintenance is scheduled for 2023-04-14 08:30 UTC. See details on the Maintenance page.
+
+Server	rosie.db.elephantsql.com (rosie-01)
+Region	amazon-web-services::ap-southeast-2
+Created at	2023-04-07 23:14 UTC+00:00
+User & Default database	tzyixykg
+Password	a67YK2EWSb6JFM3MIe_X0KoVcVyJlTTg 
+URL	postgres://tzyixykg:a67YK2EWSb6JFM3MIe_X0KoVcVyJlTTg@rosie.db.elephantsql.com/tzyixykg 
+Current database size	
+Max database size	20 MB
+Active Plan
+Tiny Turtle
+Tiny Turtle
+
+API access
+Control your instance via our  HTTP API.
+
+API Key
+d4a4eb6e-3cbf-40a3-b3ca-26d654b09497 
+------------------------------------------
+33343351
+postgres
+a67YK2EWSb6JFM3MIe_X0KoVcVyJlTTg
+
+
